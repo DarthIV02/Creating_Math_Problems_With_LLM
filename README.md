@@ -1,4 +1,6 @@
-# Creating_Math_Problems_With_LLM
+# Creating Math Problems With LLM
+
+## Creating Dataset
 
 In this project we are able to create a set of valid math problems for Grade 3 and 4 students in Germany.
 
@@ -18,4 +20,10 @@ Now the code is ready to run:
 
 ``` python create_dataset.py <model> <grade> <num_problems> ```
 
-For more details, take a look at our code.
+The most up to date resulting dataset can be found inside of problems/version_2.
+
+For more details about the API calls, and the actual prompt take a look at our code.
+
+## Results Analysis
+
+We have attached the R code, for the analysis of the results along with the results of the survey that we obtained (user_study_results.xlsx)

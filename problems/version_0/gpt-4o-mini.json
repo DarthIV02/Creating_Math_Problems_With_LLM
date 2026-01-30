@@ -1,0 +1,254 @@
+[
+  {
+    "Problem": "In einem Garten wachsen 12 Apfelb\u00e4ume. Jeder Baum hat 5 \u00c4pfel. Wie viele \u00c4pfel gibt es insgesamt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Multiplikation",
+    "Answer": 60,
+    "metric": "\u00c4pfel",
+    "steps": "12 B\u00e4ume \u00d7 5 \u00c4pfel = 60."
+  },
+  {
+    "Problem": "In einem Obstkorb liegen 15 \u00c4pfel. Peter gibt 7 \u00c4pfel an seine Freunde. Wie viele \u00c4pfel sind noch im Korb?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Ein-Schritt Subtraktion",
+    "Answer": 8,
+    "metric": "\u00c4pfel",
+    "steps": "15 \u00c4pfel \u2212 7 \u00c4pfel = 8 \u00c4pfel."
+  },
+  {
+    "Problem": "In einer Kiste sind 15 \u00c4pfel. Der Lehrer legt 7 weitere \u00c4pfel hinzu. Wie viele \u00c4pfel sind jetzt in der Kiste?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Addition",
+    "Answer": 22,
+    "metric": "\u00c4pfel",
+    "steps": "15 + 7 = 22."
+  },
+  {
+    "Problem": "Tom hat 46 Murmeln und gewinnt 18 weitere beim Spielen. Wie viele Murmeln hat er jetzt insgesamt?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Zunahme",
+    "Answer": 64,
+    "metric": "Murmeln",
+    "steps": "46 + 18 = 64."
+  },
+  {
+    "Problem": "Anna hat 45 \u00c4pfel. Sie gibt 12 \u00c4pfel an ihre Freunde und kauft 20 weitere \u00c4pfel. Wie viele \u00c4pfel hat Anna jetzt?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Zunahme/Abnahme",
+    "Answer": 53,
+    "metric": "\u00c4pfel",
+    "steps": "45\u221212=33, 33+20=53."
+  },
+  {
+    "Problem": "In einem Klassenzimmer sind 20 St\u00fchle. 5 davon sind kaputt und m\u00fcssen repariert werden. Wie viele st\u00fchle sind jetzt noch in gutem Zustand?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Abnahme",
+    "Answer": 15,
+    "metric": "St\u00fchle",
+    "steps": "20\u22125=15."
+  },
+  {
+    "Problem": "Ein Tischler hat 150 cm Holz. Er braucht 35 cm f\u00fcr ein Regal und 50 cm f\u00fcr einen Tisch. Wie viel Holz bleibt \u00fcbrig?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Zunahme/Abnahme",
+    "Answer": 65,
+    "metric": "cm",
+    "steps": "150\u221235=115, 115\u221250=65."
+  },
+  {
+    "Problem": "Ein Schulbus hat 24 Pl\u00e4tze. An einem Tag sind 18 Kinder eingestiegen. Der Bus f\u00e4hrt dann zu einer anderen Schule und 6 Kinder steigen dort aus. Wie viele Pl\u00e4tze sind jetzt noch frei?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe",
+    "Answer": 12,
+    "metric": "Pl\u00e4tze",
+    "steps": "24\u221218=6 (belegte Pl\u00e4tze), 6\u22126=0 (ausgestiegene Kinder), 24\u221218=6 belegt, 24\u221218\u22126=12 freie Pl\u00e4tze."
+  },
+  {
+    "Problem": "In einer Bibliothek sind 250 B\u00fccher. 75 B\u00fccher wurden ausgeliehen und 30 neue B\u00fccher sind angekommen. Wie viele B\u00fccher sind jetzt in der Bibliothek?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe",
+    "Answer": 205,
+    "metric": "B\u00fccher",
+    "steps": "250\u221275=175, 175+30=205."
+  },
+  {
+    "Problem": "Anna hat 15 \u00c4pfel. Sie gibt 3 \u00c4pfel an ihren Freund. Wie viele \u00c4pfel hat sie jetzt?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Subtraktion",
+    "Answer": 12,
+    "metric": "\u00c4pfel",
+    "steps": "15\u22123=12."
+  },
+  {
+    "Problem": "Lara hat 15 \u00c4pfel und gibt 7 \u00c4pfel an ihre Freunde. Wie viele \u00c4pfel hat sie noch?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Subtraktion",
+    "Answer": 8,
+    "metric": "\u00c4pfel",
+    "steps": "15\u22127=8."
+  },
+  {
+    "Problem": "Lisa hat 7 \u00c4pfel und kauft 5 weitere. Wie viele \u00c4pfel hat sie jetzt insgesamt?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Addition",
+    "Answer": 12,
+    "metric": "\u00c4pfel",
+    "steps": "7+5=12."
+  },
+  {
+    "Problem": "Anna hat 250 g \u00c4pfel und kauft 3 weitere Packungen mit je 500 g. Wie viel \u00c4pfel hat sie insgesamt in Gramm?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschritt/Nachrechnen",
+    "Answer": 1750,
+    "metric": "g",
+    "steps": "250 + (3 \u00d7 500) = 250 + 1500 = 1750."
+  },
+  {
+    "Problem": "In einem Obstkorb sind 12 \u00c4pfel, 15 Bananen und 9 Orangen. Wie viele Fr\u00fcchte sind das insgesamt?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Addition",
+    "Answer": 36,
+    "metric": "Fr\u00fcchte",
+    "steps": "12 + 15 + 9 = 36."
+  },
+  {
+    "Problem": "Ein Obststand verkauft \u00c4pfel f\u00fcr 2 Euro pro kg und Birnen f\u00fcr 3 Euro pro kg. Wie viel kosten 4 kg \u00c4pfel und 3 kg Birnen zusammen?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Gemischte Operationen",
+    "Answer": 17,
+    "metric": "Euro",
+    "steps": "4\u00d72=8, 3\u00d73=9, 8+9=17."
+  },
+  {
+    "Problem": "Ein Obststand verkauft 120 \u00c4pfel und 80 Birnen. Nach einem Tag verkauft er 25% der \u00c4pfel und 40% der Birnen. Wie viele Obstst\u00fccke bleiben am Ende des Tages \u00fcbrig?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschritt/Nachrechnen",
+    "Answer": 70,
+    "metric": "Obstst\u00fccke",
+    "steps": "\u00c4pfel: 120 - (120 * 0.25) = 90; Birnen: 80 - (80 * 0.40) = 48; \u00fcbrig: 90 + 48 = 138."
+  },
+  {
+    "Problem": "Ein Gem\u00fcsebauern verkauft 120 kg Kartoffeln in 3 Tagen. Am ersten Tag verkauft er 40 kg, am zweiten Tag 35 kg. Wie viele kg verkauft er am dritten Tag, wenn er die Verk\u00e4ufe gleichm\u00e4\u00dfig steigert?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschritt/Nachrechnen",
+    "Answer": 45,
+    "metric": "kg",
+    "steps": "120 kg - 40 kg - 35 kg = 45 kg."
+  },
+  {
+    "Problem": "Lisa hat 3,5 kg \u00c4pfel und 2,3 kg Birnen gekauft. Nach einer Woche hat sie 0,5 kg \u00c4pfel und 1,2 kg Birnen gegessen. Wie viel Obst hat sie jetzt insgesamt?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschritt/Nachrechnen",
+    "Answer": 4.1,
+    "metric": "kg",
+    "steps": "3,5 + 2,3 - 0,5 - 1,2 = 4,1."
+  },
+  {
+    "Problem": "Anna hat 240 \u00c4pfel. Sie verkauft 45 \u00c4pfel und kauft danach 30 weitere \u00c4pfel. Wie viele \u00c4pfel hat sie jetzt?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Zunahme/Abnahme",
+    "Answer": 225,
+    "metric": "\u00c4pfel",
+    "steps": "240\u221245=195, 195+30=225."
+  },
+  {
+    "Problem": "In einer Box sind 24 \u00c4pfel. Ein Verk\u00e4ufer verkauft 8 \u00c4pfel und nach einer Woche kommen 12 neue \u00c4pfel dazu. Wie viele \u00c4pfel sind jetzt in der Box?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Zunahme/Abnahme",
+    "Answer": 28,
+    "metric": "\u00c4pfel",
+    "steps": "24\u22128=16, 16+12=28."
+  },
+  {
+    "Problem": "Ein Garten hat 1200 m\u00b2 Fl\u00e4che. Davon sind 450 m\u00b2 mit Blumen bepflanzt. Der Rest ist Rasen. Wie viel m\u00b2 Rasen gibt es?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschritt/Nachrechnen",
+    "Answer": 750,
+    "metric": "m\u00b2",
+    "steps": "1200-450=750."
+  },
+  {
+    "Problem": "Ein Kino hat 1200 Sitze. Am ersten Tag sind 450 Sitze belegt und am zweiten Tag 320. Wie viele Sitze sind insgesamt am dritten Tag noch frei, wenn 200 neue Tickets verkauft werden?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschritt/Nachrechnen",
+    "Answer": 230,
+    "metric": "Sitze",
+    "steps": "1200-450-320+200=230."
+  },
+  {
+    "Frage": "In einem Garten wachsen 12 rote Blumen und 8 gelbe Blumen. Wie viele Blumen sind das insgesamt?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "3",
+    "Aufgabentyp": "Einfache Addition",
+    "Antwort": 20,
+    "Einheit": "Blumen",
+    "Rechenschritte": "12 rote Blumen + 8 gelbe Blumen = 20."
+  },
+  {
+    "Frage": "Tom hat 45 Murmeln. Er gewinnt 23 weitere Murmeln und verschenkt 18. Wie viele Murmeln hat er jetzt?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "3",
+    "Aufgabentyp": "Zunahme/Abnahme",
+    "Antwort": 50,
+    "Einheit": "Murmeln",
+    "Rechenschritte": "45 + 23 = 68, 68 - 18 = 50."
+  },
+  {
+    "Frage": "In einer Schult\u00fcte sind 25 Bonbons. Jannik isst 8 Bonbons und seine Schwester 6 Bonbons. Wie viele Bonbons sind noch in der Schult\u00fcte?",
+    "Schwierigkeit": "Schwer",
+    "Klasse": "3",
+    "Aufgabentyp": "Zunahme/Abnahme",
+    "Antwort": 11,
+    "Einheit": "Bonbons",
+    "Rechenschritte": "25\u22128=17, 17\u22126=11."
+  },
+  {
+    "Frage": "Ein B\u00e4cker verkauft 12 Br\u00f6tchen und 8 Croissants. Wie viele Backwaren verkauft er insgesamt?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "4",
+    "Aufgabentyp": "Addition",
+    "Antwort": 20,
+    "Einheit": "Backwaren",
+    "Rechenschritte": "12+8=20."
+  },
+  {
+    "Frage": "Ein Obstladen verkauft 12 \u00c4pfel f\u00fcr 2 Euro und 15 Bananen f\u00fcr 3 Euro. Wie viel kosten alle \u00c4pfel und Bananen zusammen?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "4",
+    "Aufgabentyp": "Gemischte Operationen",
+    "Antwort": 39,
+    "Einheit": "Euro",
+    "Rechenschritte": "12\u00d72=24, 15\u00d73=45, 24+45=69."
+  },
+  {
+    "Frage": "In einer Klasse sind 24 Sch\u00fcler, davon haben 10 einen Hund, 8 haben eine Katze und 2 haben sowohl einen Hund als auch eine Katze. Wie viele Sch\u00fcler haben weder einen Hund noch eine Katze?",
+    "Schwierigkeit": "Schwer",
+    "Klasse": "4",
+    "Aufgabentyp": "Mehrschritt/Nachrechnen",
+    "Antwort": 6,
+    "Einheit": "Sch\u00fcler",
+    "Rechenschritte": "10+8-2=16, 24-16=8."
+  }
+]

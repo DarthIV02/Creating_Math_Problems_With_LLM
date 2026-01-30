@@ -1,0 +1,164 @@
+[
+  {
+    "Problem": "Ein G\u00e4rtner pflanzt in seinem Garten 24 Blumen. Nach einigen Tagen gibt er 8 Blumen an seine Nachbarin ab. Wie viele Blumen bleiben ihm noch?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Subtraktion",
+    "Answer": 16,
+    "metric": "Blumen",
+    "steps": "Anfangs hat der G\u00e4rtner 24 Blumen. Er gibt 8 Blumen ab. Rechnung: 24\u22128=16. Es bleiben ihm 16 Blumen."
+  },
+  {
+    "Problem": "Tom hat 34 bunte Murmeln. Er findet noch 18 weitere Murmeln im Park. Wie viele Murmeln hat Tom jetzt insgesamt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Addition",
+    "Answer": 52,
+    "metric": "Murmeln",
+    "steps": "Anfang: 34 Murmeln. Gefundene Murmeln: 18. Rechnung: 34 + 18 = 52. Insgesamt hat Tom jetzt 52 Murmeln."
+  },
+  {
+    "Problem": "Anna hat in ihrem Garten 15 Blumen. Sie pflanzt 7 neue Blumen dazu. Wie viele Blumen hat Anna jetzt insgesamt in ihrem Garten?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Addition",
+    "Answer": 22,
+    "metric": "Blumen",
+    "steps": "Anzahl der Blumen anfangs: 15. Neue Blumen: 7. Rechnung: 15 + 7 = 22. Insgesamt hat Anna 22 Blumen in ihrem Garten."
+  },
+  {
+    "Problem": "Tom hat 150 Murmeln. Er gibt 28 Murmeln an seine Freundin Mia und danach 15 Murmeln an seinen Freund Felix. Wie viele Murmeln hat Tom jetzt noch?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe (Subtraktion)",
+    "Answer": 107,
+    "metric": "Murmeln",
+    "steps": "1. Startmenge: Tom hat 150 Murmeln. 2. Erste Gabe: 150 - 28 = 122 Murmeln. 3. Zweite Gabe: 122 - 15 = 107 Murmeln. Ergebnis: Tom hat noch 107 Murmeln."
+  },
+  {
+    "Problem": "Klara hat 125 Murmeln. Ihr Freund Tom schenkt ihr 48 zus\u00e4tzliche Murmeln. Sp\u00e4ter verliert sie 27 Murmeln beim Spielen im Park. Wie viele Murmeln hat Klara jetzt?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe (Kopfrechnen)",
+    "Answer": 146,
+    "metric": "Murmeln",
+    "steps": "Anfang: 125 Murmeln. Tom schenkt Klara 48 Murmeln \u2192 125 + 48 = 173. Klara verliert 27 Murmeln \u2192 173 - 27 = 146. Jetzt hat Klara 146 Murmeln."
+  },
+  {
+    "Problem": "In einem Zoo gibt es 125 V\u00f6gel und 75 S\u00e4ugetiere. Der Zoow\u00e4rter bringt 20 neue V\u00f6gel und verkauft 10 S\u00e4ugetiere. Wie viele Tiere gibt es jetzt insgesamt im Zoo?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe (Addition und Subtraktion)",
+    "Answer": 210,
+    "metric": "Tiere",
+    "steps": "Anfang: 125 V\u00f6gel und 75 S\u00e4ugetiere. Neue V\u00f6gel: 20. Verkaufte S\u00e4ugetiere: 10. Rechnung: 125 + 20 = 145 V\u00f6gel. Rechnung: 75 - 10 = 65 S\u00e4ugetiere. Insgesamt: 145 + 65 = 210 Tiere im Zoo."
+  },
+  {
+    "Problem": "Timo hat 4 gro\u00dfe Kisten, in denen seine Spielzeuge aufbewahrt sind. Jede Kiste enth\u00e4lt 56 Spielzeuge. Eines Tages entscheidet er sich, 75 Spielzeuge an seine Freunde zu verschenken. Wie viele Spielzeuge bleiben ihm am Ende noch?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittige Subtraktion und Multiplikation",
+    "Answer": 149,
+    "metric": "Spielzeuge",
+    "steps": "Schritt 1: Timo hat 4 Kisten mit je 56 Spielzeugen: 4 \u00d7 56 = 224 Spielzeuge. Schritt 2: Timo verschenkt 75 Spielzeuge: 224 - 75 = 149 Spielzeuge."
+  },
+  {
+    "Problem": "In einem Abenteuerpark gibt es 5 verschiedene Attraktionen. Jede Attraktion hat eine maximale Kapazit\u00e4t von 120 Personen. Wenn am Wochenende zur Hauptsaison durchschnittlich 80% der Kapazit\u00e4t jeder Attraktion voll ist, wie viele Personen sind insgesamt in den Attraktionen, wenn alle gleichzeitig voll ausgelastet sind?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittige Multiplikation und Prozentsatz",
+    "Answer": 480,
+    "metric": "Personen",
+    "steps": "Jede Attraktion hat eine Kapazit\u00e4t von 120 Personen. Es gibt 5 Attraktionen, also: 5 \u00d7 120 = 600 Personen maximal. Aber nur 80% der Kapazit\u00e4t werden zur Hauptsaison voll genutzt, also berechnen wir 80% von 600: 600 \u00d7 0,8 = 480 Personen. Insgesamt sind 480 Personen in den Attraktionen."
+  },
+  {
+    "Problem": "Max und Sophie sind auf einem Abenteuer in einem magischen Wald. Sie finden einen kleinen Baum, unter dem 36 goldene \u00c4pfel liegen. Max nimmt 12 \u00c4pfel und Sophie findet 4x so viele wie Max. Wie viele \u00c4pfel bleiben noch unter dem Baum?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Gemischte Operationen (Addition und Multiplikation)",
+    "Answer": 4,
+    "metric": "\u00c4pfel",
+    "steps": "Anfang: 36 \u00c4pfel unter dem Baum. Max nimmt 12 \u00c4pfel \u2192 36 - 12 = 24 \u00c4pfel bleiben. Sophie findet 4\u00d712 = 48 \u00c4pfel. Es gibt also insgesamt 24 + 48 = 72 \u00c4pfel. Aber wir ber\u00fccksichtigen nur die \u00c4pfel, die unter dem Baum geblieben sind: 72 - 72 = 0. Das ist nicht korrekt, also: Max nimmt 12 \u00c4pfel. Die totalen \u00c4pfel sind 36 - 12 = 24. Sophie fand 0 zus\u00e4tzliche \u00c4pfel, da sie nichts nahm. Die Antwort ist 24 \u00c4pfel, 0 \u00c4pfel bleiben unter dem Baum."
+  },
+  {
+    "Problem": "Max und Lisa sammeln Krippenfiguren. Max hat 12 Figuren und Lisa hat 8 Figuren. Wie viele Figuren haben sie zusammen?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Einfache Addition",
+    "Answer": 20,
+    "metric": "Figuren",
+    "steps": "Addiere die Anzahl der Figuren von Max und Lisa: 12 + 8 = 20. Zusammen haben Max und Lisa 20 Figuren."
+  },
+  {
+    "Problem": "Lena hat 25 Buntstifte. Sie verschenkt 7 Buntstifte an ihre Freundin. Wie viele Buntstifte hat Lena jetzt noch?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Einfache Subtraktion",
+    "Answer": 18,
+    "metric": "Buntstifte",
+    "steps": "Beginne mit der Anzahl der Buntstifte: 25. Ziehe die Anzahl der verschenkte Buntstifte ab: 25 - 7 = 18. Lena hat jetzt 18 Buntstifte."
+  },
+  {
+    "Problem": "Lena hat 15 \u00c4pfel und gibt 7 ihrer Freunde. Wie viele \u00c4pfel beh\u00e4lt sie?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Einfache Subtraktion",
+    "Answer": 8,
+    "metric": "\u00c4pfel",
+    "steps": "Lena hat 15 \u00c4pfel. Sie gibt 7 \u00c4pfel weg. Ziehe die 7 gegebenen \u00c4pfel von den 15 \u00c4pfeln ab: 15 - 7 = 8. Lena beh\u00e4lt 8 \u00c4pfel."
+  },
+  {
+    "Problem": "In einem Tierheim gibt es 235 Hunde und 187 Katzen. Bei einem gro\u00dfen Adoptionstag werden 78 Hunde und 45 Katzen adoptiert. Wie viele Tiere sind danach noch im Tierheim?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Subtraktion",
+    "Answer": 299,
+    "metric": "Tiere",
+    "steps": "Berechne die Anzahl adoptierten Tiere: 78 Hunde + 45 Katzen = 123 Tiere. Ziehe die adoptierten Tiere von der Gesamtheit der Tiere im Tierheim ab: 235 Hunde + 187 Katzen = 422 Tiere. 422 Tiere - 123 adoptierten Tiere = 299 Tiere sind noch im Tierheim."
+  },
+  {
+    "Problem": "In einem Tierheim sind 125 Hunde und 87 Katzen. Wenn 34 Hunde und 15 Katzen adoptiert werden, wie viele Tiere sind dann noch im Tierheim?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Subtraktion",
+    "Answer": 163,
+    "metric": "Tiere",
+    "steps": "Z\u00e4hle die urspr\u00fcngliche Anzahl der Hunde und Katzen: 125 Hunde + 87 Katzen = 212 Tiere. Berechne die adoptierten Tiere: 34 Hunde + 15 Katzen = 49 Tiere. Ziehe die adoptierten Tiere von der Gesamtsumme ab: 212 - 49 = 163 Tiere bleiben im Tierheim."
+  },
+  {
+    "Problem": "Sophie hat 250g Mehl, um Kekse zu backen. Sie braucht f\u00fcr ein Rezept 75g. Wenn sie das Rezept dreimal backt, wie viel Mehl bleibt \u00fcbrig?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Subtraktion",
+    "Answer": 25,
+    "metric": "g",
+    "steps": "Berechne, wie viel Mehl f\u00fcr drei Rezepte ben\u00f6tigt wird: 75g \u00d7 3 = 225g. Ziehe die ben\u00f6tigte Menge vom Gesamtmehl ab: 250g - 225g = 25g. Somit bleiben 25g Mehl \u00fcbrig."
+  },
+  {
+    "Problem": "In einem gro\u00dfen Park gibt es insgesamt 8 Spielpl\u00e4tze. Jeder Spielplatz hat 12 Schaukeln. Zus\u00e4tzlich gibt es 5 Rutschen, und an jeder Rutsche spielen 4 Kinder. Wenn 3 Kinder von den Schaukeln zu den Rutschen gehen, wie viele Kinder sind dann insgesamt auf den Spielpl\u00e4tzen?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Addition und Multiplikation",
+    "Answer": 62,
+    "metric": "Kinder",
+    "steps": "Berechne zuerst die Gesamtzahl der Schaukeln: 8 Spielpl\u00e4tze \u00d7 12 Schaukeln = 96 Schaukeln. Danach berechne die Anzahl der Kinder auf den Rutschen: 5 Rutschen \u00d7 4 Kinder = 20 Kinder. Addiere die Kinder auf den Schaukeln (96) und auf den Rutschen (20): 96 + 20 = 116. Ziehe die 3 Kinder ab, die von den Schaukeln gehen: 116 - 3 = 113. Das ergibt schlie\u00dflich 113 Kinder im Park."
+  },
+  {
+    "Problem": "Im Kletterpark gibt es 6 verschiedene Routen. Jede Route hat eine unterschiedliche Anzahl von \u00dcbungen. Route A hat 25 \u00dcbungen, Route B 30, Route C 18, Route D 22, Route E 27 und Route F 15. Der Kletterpark plant, 15 neue \u00dcbungen zu Route B und 10 neue \u00dcbungen zu Route D hinzuzuf\u00fcgen. Wie viele \u00dcbungen gibt es in diesen beiden Routen zusammen, nachdem die neuen \u00dcbungen hinzugef\u00fcgt wurden?",
+    "Difficulty": "Hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Addition und Subtraktion",
+    "Answer": 77,
+    "metric": "\u00dcbungen",
+    "steps": "Addiere die urspr\u00fcnglichen \u00dcbungen von Route B und Route D: 30 (Route B) + 22 (Route D) = 52. Addiere die neuen \u00dcbungen: 15 (neue \u00dcbungen f\u00fcr Route B) + 10 (neue \u00dcbungen f\u00fcr Route D) = 25. Addiere beide Ergebnisse: 52 + 25 = 77. Es gibt insgesamt 77 \u00dcbungen in Route B und Route D, nachdem die neuen hinzugef\u00fcgt wurden."
+  },
+  {
+    "Problem": "Lena und Max haben zusammen 7.200 M\u00fcnzen aus ihren Sammelalben. Lena hat 3-mal so viele M\u00fcnzen wie Max. Wie viele M\u00fcnzen hat jeder von ihnen, und wie viele M\u00fcnzen haben sie insgesamt in 3 Monaten gesammelt, wenn sie jeden Monat 200 M\u00fcnzen hinzuf\u00fcgen?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Gemischte Operationen, Verh\u00e4ltnis und Addition",
+    "Answer": 7800,
+    "metric": "M\u00fcnzen",
+    "steps": "Nenne die Anzahl der M\u00fcnzen von Max als x. Dann hat Lena 3x M\u00fcnzen. Das ergibt die Gleichung: x + 3x = 7200. 4x = 7200. Teile beide Seiten durch 4: x = 1800. Max hat also 1800 M\u00fcnzen und Lena hat 3 x 1800 = 5400 M\u00fcnzen. In 3 Monaten sammeln sie insgesamt 3 x 200 = 600 M\u00fcnzen. Nun addiere die zus\u00e4tzlichen M\u00fcnzen zu ihrem urspr\u00fcnglichen Gesamtbestand: 7200 + 600 = 7800."
+  }
+]

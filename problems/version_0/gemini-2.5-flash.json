@@ -1,0 +1,164 @@
+[
+  {
+    "Problem": "Ein Obsth\u00e4ndler hat am Morgen eine gro\u00dfe Lieferung \u00c4pfel erhalten. Zuerst verkauft er 15 Kisten zu je 20 \u00c4pfeln. Danach verkauft er noch 8 kleinere Kisten zu je 12 \u00c4pfeln. Am Abend stellt er fest, dass er noch 140 \u00c4pfel \u00fcbrig hat. Wie viele \u00c4pfel waren in der Lieferung am Morgen?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Startwert unbekannt (Mehrschritt)",
+    "Answer": 536,
+    "metric": "\u00c4pfel",
+    "steps": "1. Verkaufte \u00c4pfel Vormittag: 15 \u00d7 20 = 300. 2. Verkaufte \u00c4pfel Nachmittag: 8 \u00d7 12 = 96. 3. Gesamt verkaufte \u00c4pfel: 300 + 96 = 396. 4. \u00c4pfel am Morgen: 396 + 140 = 536."
+  },
+  {
+    "Problem": "Mia spart f\u00fcr ein Fahrrad, das 250 \u20ac kostet. Sie hat bereits 85 \u20ac gespart. Jede Woche hilft sie ihrer Mutter im Garten und bekommt daf\u00fcr 7 \u20ac. Au\u00dferdem hilft sie ihrem Vater an 3 Wochenenden im Monat beim Autowaschen und bekommt pro Mal 9 \u20ac. Mia m\u00f6chte das Fahrrad in 4 Wochen kaufen. Wie viel Geld fehlt ihr dann noch?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Geld (Mehrschritt)",
+    "Answer": 110,
+    "metric": "Euro",
+    "steps": "7*4=28 (Garten), 9*3=27 (Autowaschen). 28+27=55 (neu gespart). 85+55=140 (gesamt gespart). 250-140=110 (fehlend)."
+  },
+  {
+    "Problem": "Frau Meier hatte zu Beginn des Monats einen bestimmten Geldbetrag auf ihrem Konto. Sie bezahlt ihre Miete von 350 \u20ac. Danach kauft sie f\u00fcr ihre 3 Kinder je ein Buch, das 12 \u20ac kostet. Am Ende des Monats sind noch 450 \u20ac auf ihrem Konto. Wie viel Geld hatte Frau Meier am Anfang des Monats auf ihrem Konto?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Geld (Startwert unbekannt, Mehrschritt)",
+    "Answer": 836,
+    "metric": "Euro",
+    "steps": "1. Kosten f\u00fcr B\u00fccher: 3 \u00d7 12 \u20ac = 36 \u20ac. 2. Gesamtausgaben: 350 \u20ac + 36 \u20ac = 386 \u20ac. 3. Anfangsbetrag: 450 \u20ac + 386 \u20ac = 836 \u20ac."
+  },
+  {
+    "Problem": "Max hat 25 Murmeln gesammelt. Heute findet er noch 12 Murmeln. Wie viele Murmeln hat Max jetzt insgesamt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Zunahme",
+    "Answer": 37,
+    "metric": "Murmeln",
+    "steps": "25 + 12 = 37"
+  },
+  {
+    "Problem": "Paul hat 15 \u00c4pfel, Lisa hat 8 \u00c4pfel. Wie viel mehr \u00c4pfel hat Paul als Lisa?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Vergleich",
+    "Answer": 7,
+    "metric": "\u00c4pfel",
+    "steps": "15 - 8 = 7."
+  },
+  {
+    "Problem": "Marie hat 25 Murmeln. Sie findet noch 12 Murmeln. Wie viele Murmeln hat Marie jetzt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Zunahme",
+    "Answer": 37,
+    "metric": "Murmeln",
+    "steps": "25 + 12 = 37"
+  },
+  {
+    "Problem": "In einer Sporthalle sind 6 Reihen mit je 15 St\u00fchlen. F\u00fcr ein Konzert werden zus\u00e4tzlich 80 St\u00fchle aufgestellt. Wie viele St\u00fchle stehen dann insgesamt in der Halle?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe (Multiplikation und Addition)",
+    "Answer": 170,
+    "metric": "St\u00fchle",
+    "steps": "6 \u00d7 15 = 90; 90 + 80 = 170."
+  },
+  {
+    "Problem": "In einer Obstkiste sind 450 \u00c4pfel. 3 Freunde teilen sich davon 90 \u00c4pfel gerecht auf und essen sie. Die restlichen \u00c4pfel sollen in T\u00fcten zu je 6 \u00c4pfeln verpackt werden. Wie viele T\u00fcten k\u00f6nnen gef\u00fcllt werden?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe (Subtraktion und Division)",
+    "Answer": 60,
+    "metric": "T\u00fcten",
+    "steps": "450 - 90 = 360; 360 / 6 = 60."
+  },
+  {
+    "Problem": "Ein Bauer hat 125 H\u00fchner. Er kauft jede Woche 8 neue H\u00fchner dazu, und das f\u00fcr 3 Wochen. Wie viele H\u00fchner hat er danach insgesamt?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Zunahme (Mehrschritt)",
+    "Answer": 149,
+    "metric": "H\u00fchner",
+    "steps": "8 H\u00fchner/Woche \u00d7 3 Wochen = 24 neue H\u00fchner; 125 H\u00fchner + 24 H\u00fchner = 149 H\u00fchner."
+  },
+  {
+    "Problem": "Jedes Kind bekommt 3 Bonbons. Es sind 12 Kinder. Wie viele Bonbons werden verteilt?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Multiplikation",
+    "Answer": 36,
+    "metric": "Bonbons",
+    "steps": "3 * 12 = 36"
+  },
+  {
+    "Problem": "Leo hat 48 Sammelkarten. Er bekommt 21 weitere Karten von seinem Freund. Wie viele Sammelkarten hat Leo jetzt?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Addition",
+    "Answer": 69,
+    "metric": "Sammelkarten",
+    "steps": "48 + 21 = 69"
+  },
+  {
+    "Problem": "Ein B\u00e4cker backt 45 Br\u00f6tchen. Er verkauft 23 Br\u00f6tchen. Wie viele Br\u00f6tchen sind noch \u00fcbrig?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Subtraktion",
+    "Answer": 22,
+    "metric": "Br\u00f6tchen",
+    "steps": "45-23=22"
+  },
+  {
+    "Problem": "Ein Sportfest hat einen Rundkurs von 850 Metern. Jeder Teilnehmer muss den Kurs 4 Mal durchlaufen. Emilia hat bereits 2 Runden geschafft. Wie viele Meter fehlen ihr noch bis zum Ziel?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschritt / Gemischte Operationen",
+    "Answer": 1700,
+    "metric": "Meter",
+    "steps": "850\u00d74=3400; 850\u00d72=1700; 3400-1700=1700."
+  },
+  {
+    "Problem": "Eine Schule bestellt 12 Kisten Buntstifte. Jede Kiste enth\u00e4lt 30 Stifte. Wenn die Schule bereits 240 Stifte hatte und nun alle Stifte gleichm\u00e4\u00dfig auf 8 Klassen verteilt werden sollen, wie viele Stifte erh\u00e4lt jede Klasse?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschritt/Gemischte Operationen",
+    "Answer": 75,
+    "metric": "Stifte",
+    "steps": "12\u00d730=360; 360+240=600; 600\u00f78=75."
+  },
+  {
+    "Problem": "Ein B\u00e4cker backt pro Tag 150 Br\u00f6tchen und verkauft sie f\u00fcr je 0,60 Euro. Er verkauft au\u00dferdem 24 Kuchenst\u00fccke f\u00fcr je 2,50 Euro. Wie viel Euro nimmt der B\u00e4cker in einer Woche (7 Tagen) insgesamt ein, wenn er jeden Tag gleich viel verkauft?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Gemischte Operationen",
+    "Answer": 1050,
+    "metric": "Euro",
+    "steps": "150*0.60=90; 24*2.50=60; 90+60=150; 150*7=1050."
+  },
+  {
+    "Problem": "Ein B\u00e4cker hat zu Beginn eine bestimmte Menge Mehl. Er backt 3 Kuchen, f\u00fcr die jeweils 750 g Mehl ben\u00f6tigt werden. Danach backt er 50 Muffins, f\u00fcr die jeweils 50 g Mehl ben\u00f6tigt werden. Am Ende seines Backtages hat er noch 2 kg 250 g Mehl \u00fcbrig. Wie viel Mehl hatte der B\u00e4cker anfangs in Kilogramm?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Startwert-Unbekannt, Gemischte Operationen, Einheitenumrechnung",
+    "Answer": 7,
+    "metric": "Kilogramm",
+    "steps": "3\u00d7750g=2250g. 50\u00d750g=2500g. 2250g+2500g=4750g (verbraucht). 2kg 250g = 2250g (\u00fcbrig). 4750g+2250g=7000g (Anfangsmenge). 7000g=7kg."
+  },
+  {
+    "Problem": "Eine Klasse hat Geld f\u00fcr einen Ausflug gesammelt. Sie kaufen zuerst 30 Saftboxen zu je 0,75\u20ac und 25 belegte Br\u00f6tchen zu je 1,80\u20ac. Danach kaufen sie noch 5 kg \u00c4pfel f\u00fcr 2,50\u20ac pro kg. Am Ende der Eink\u00e4ufe haben sie noch 15,50\u20ac \u00fcbrig. Wie viel Geld hatte die Klasse am Anfang insgesamt? Gib die Antwort in Cent an.",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschritt/Startwert-unbekannt",
+    "Answer": 9550,
+    "metric": "Cent",
+    "steps": "30*0.75=22.50; 25*1.80=45.00; 5*2.50=12.50; 22.50+45.00+12.50=80.00; 80.00+15.50=95.50; 95.50 Euro sind 9550 Cent."
+  },
+  {
+    "Problem": "Ein S\u00fc\u00dfwarenladen hatte am Morgen eine unbekannte Menge Gummib\u00e4rchen. Im Laufe des Vormittags wurden 2450 g Gummib\u00e4rchen in T\u00fcten gef\u00fcllt und aus dem Lager entfernt. Von den restlichen Gummib\u00e4rchen wurde ein Drittel verkauft. Am Ende des Tages waren noch 3200 g Gummib\u00e4rchen \u00fcbrig. Wie viele Gramm Gummib\u00e4rchen hatte der Laden am Morgen?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Startwert-Unbekannt",
+    "Answer": 7250,
+    "metric": "Gramm",
+    "steps": "3200 sind 2/3 des Restes. Rest = 3200 * 3 / 2 = 4800. Anfangsmenge = 4800 + 2450 = 7250."
+  }
+]

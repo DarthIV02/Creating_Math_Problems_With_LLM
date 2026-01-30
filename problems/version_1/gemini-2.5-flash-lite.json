@@ -1,0 +1,83 @@
+[
+  {
+    "Problem": "Beim gro\u00dfen Drachenfest l\u00e4sst Lena ihren Drachen steigen. Am ersten Tag fliegt ihr Drachen 35 Meter hoch. Am zweiten Tag fliegt er 15 Meter h\u00f6her als am ersten Tag. Wie hoch fliegt ihr Drachen am zweiten Tag?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Addition",
+    "Answer": 50,
+    "metric": "Meter",
+    "steps": "35+15=50."
+  },
+  {
+    "Problem": "Beim Drachenfest ließ Leo seinen großen Drachen 3 Mal in die Luft. Das erste Mal stieg er 120 Meter hoch, das zweite Mal 155 Meter und das dritte Mal 136 Meter. Wie hoch war der Drachen im Durchschnitt?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Durchschnitt",
+    "Answer": 137,
+    "metric": "Meter",
+    "steps": "1. Zuerst addieren wir die Höhen der drei Flüge: 120 + 155 + 136 = 411 Meter.\n2. Danach teilen wir die Summe durch die Anzahl der Flüge, um den Durchschnitt zu erhalten: 411 ÷ 3 = 137 Meter."
+  },
+  {
+    "Problem": "Auf dem Abenteuerspielplatz gibt es 5 Rutschen. Jede Rutsche ist 7 Meter lang. Wie viele Meter lang sind alle Rutschen zusammen?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Multiplikation",
+    "Answer": 35,
+    "metric": "Meter",
+    "steps": "5x7=35."
+  },
+  {
+    "Problem": "Auf dem Abenteuerspielplatz gibt es 5 verschiedene Klettergerüste. Jedes Klettergerüst hat 3 Leitern, und jede Leiter besteht aus 12 Sprossen. Wie viele Sprossen gibt es insgesamt auf allen Klettergerüsten?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Multiplikation, mehrschrittig",
+    "Answer": 180,
+    "metric": "Sprossen",
+    "steps": "1. Zuerst berechnen wir, wie viele Sprossen ein einzelnes Klettergerüst hat: 3 Leitern x 12 Sprossen pro Leiter = 36 Sprossen.\n2. Anschließend multiplizieren wir das mit der Anzahl der Klettergerüste: 36 Sprossen × 5 Klettergerüste = 180 Sprossen."
+  },
+  {
+    "Problem": "Ein Pfadfinderlager hat 3 Zelte. In jedem Zelt schlafen 5 Kinder. F\u00fcr die Abendk\u00fcche werden von jedem Kind 3 Marshmallows ben\u00f6tigt. Wie viele Marshmallows werden insgesamt verbraucht?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Multiplikation",
+    "Answer": 45,
+    "metric": "Marshmallows",
+    "steps": "3\u00d75=15, 15\u00d73=45."
+  },
+  {
+    "Problem": "Beim jährlichen Waldlauf sammeln die Schüler des 4. Jahrgangs fleißig Müll. In der Klasse von Herrn Müller gibt es 4 Teams mit jeweils 5 Schülern. Jedes Kind sammelt im Durchschnitt 3 volle Säcke Müll. Ein voller Müllsack wiegt ungefähr 7 kg. Wie viel Kilogramm Müll haben die Schüler insgesamt gesammelt?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Textaufgabe (Multiplikation)",
+    "Answer": 420,
+    "metric": "kg",
+    "steps": "1. Zuerst berechnen wir die Gesamtzahl der Schüler: 4 Teams x 5 Schüler/Team = 20 Schüler.\n2. Dann berechnen wir die Gesamtzahl der gesammelten Säcke: 20 Schüler × 3 Säcke/Schüler = 60 Säcke.\n3. Zum Schluss berechnen wir das Gesamtgewicht des Mülls: 60 Säcke × 7 kg/Sack = 420 kg."
+  },
+  {
+    "Problem": "Im Zirkus \"Fantasia\" gibt es 3 Artisten-Teams. Team A hat 12 Mitglieder, Team B hat 15 Mitglieder und Team C hat 18 Mitglieder. Jedes Mitglied aus Team A erhält 4 goldene Sterne pro Auftritt, jedes Mitglied aus Team B erhält 6 goldene Sterne und jedes Mitglied aus Team C erhält 4 goldene Sterne. Wenn alle Teams zusammen 10 Auftritte absolvieren, wie viele goldene Sterne werden insgesamt verteilt?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Rechenoperationen",
+    "Answer": 2100,
+    "metric": "goldene Sterne",
+    "steps": "1. Team A sammelt pro Auftritt: 12 Mitglieder × 4 Sterne = 48 Sterne.\n2. Team B sammelt pro Auftritt: 15 Mitglieder × 6 Sterne = 90 Sterne.\n3. Team C sammelt pro Auftritt: 18 Mitglieder × 4 Sterne = 72 Sterne.\n4. Gesamtanzahl der Sterne pro Auftritt: 48 + 90 + 72 = 210 Sterne.\n5. Gesamtanzahl für 10 Auftritte: 210 Sterne × 10 Auftritte = 2100 Sterne."
+  },
+  {
+    "Problem": "Bei einer Sternenbeobachtung hat die Klasse 4a in der ersten Stunde 4 Sternbilder mit jeweils 7,5 Millionen Lichtjahren Abstand entdeckt. In der zweiten Stunde kamen 3 weitere Sternbilder hinzu, die im Durchschnitt 12,3 Millionen Lichtjahre von der Erde entfernt waren. Wie gro\u00df ist die Summe der Abst\u00e4nde aller entdeckten Sternbilder in Millionen Lichtjahren?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Addition und Multiplikation",
+    "Answer": 63.9,
+    "metric": "Millionen Lichtjahre",
+    "steps": "7.5 \u00d7 4 = 30, 12.3 \u00d7 3 = 36.9, 30 + 36.9 = 66.9"
+  },
+  {
+    "Problem": "Ein geheimes Agenten-Team soll verschlüsselte Nachrichten entschlüsseln. Sie erhalten 5 Pakete mit je 1.250 Geheimzeichen. Jedes Zeichen hat eine 1 zu 10 Wahrscheinlichkeit, falsch entschlüsselt zu werden. Wenn sie ein Zeichen falsch entschlüsseln, müssen sie 5 Minuten zusätzliche Arbeit investieren. Wie viele zusätzliche Minuten müssen sie im schlimmsten Fall für die Korrektur aufwenden, um alle Zeichen aus den 5 Paketen zu entschlüsseln?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Berechnung (Multiplikation, Division, Multiplikation)",
+    "Answer": 3125,
+    "metric": "Minuten",
+    "steps": "5 * 1250 = 6250, 6250 / 10 = 625, 625 * 5 = 3125."
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "Problem": "Finn sammelt bunte Sticker. Er hat schon 43 Sticker in seinem Album. Heute hat er 28 neue Sticker bekommen. Wie viele Sticker hat Finn jetzt insgesamt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Addition",
+    "Answer": 71,
+    "metric": "Sticker",
+    "steps": "Anfang: 43 Sticker. Neue Sticker: 28. Rechnung: 43 + 28 = 71. Finn hat jetzt 71 Sticker insgesamt."
+  },
+  {
+    "Problem": "Leo sammelt am Strand 25 gl\u00e4nzende Muscheln. Seine Freundin Mia findet etwas sp\u00e4ter noch 12 weitere Muscheln und gibt sie Leo. Wie viele Muscheln besitzt Leo nun insgesamt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Addition",
+    "Answer": 37,
+    "metric": "Muscheln",
+    "steps": "Anzahl der zuerst gesammelten Muscheln: 25. Anzahl der von Mia hinzugef\u00fcgten Muscheln: 12. Rechnung: 25 + 12 = 37. Leo hat jetzt insgesamt 37 Muscheln."
+  },
+  {
+    "Problem": "Anna liebt es, im Herbst bunte Bl\u00e4tter zu sammeln. Sie findet 25 rote Ahornbl\u00e4tter und sp\u00e4ter noch 18 gelbe Eichenbl\u00e4tter. Wie viele Bl\u00e4tter hat Anna insgesamt gesammelt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Addition",
+    "Answer": 43,
+    "metric": "Bl\u00e4tter",
+    "steps": "Anzahl der Ahornbl\u00e4tter: 25. Anzahl der Eichenbl\u00e4tter: 18. Rechnung: 25 + 18 = 43. Anna hat insgesamt 43 Bl\u00e4tter gesammelt."
+  },
+  {
+    "Problem": "Leo, ein Abenteurer, findet 6 Beutel mit Edelsteinen. Jeder Beutel hat 130 Edelsteine. 45 Edelsteine sind leider aus Glas. Wie viele echte Edelsteine hat Leo?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe (Multiplikation und Subtraktion)",
+    "Answer": 735,
+    "metric": "Edelsteine",
+    "steps": "1. Berechne die Gesamtzahl der gefundenen Edelsteine: 6 Beutel \u00d7 130 Edelsteine/Beutel = 780 Edelsteine. 2. Ziehe die Glassteine ab, um die echten Edelsteine zu erhalten: 780 Edelsteine - 45 Glassteine = 735 echte Edelsteine. Leo hat 735 echte Edelsteine gefunden."
+  },
+  {
+    "Problem": "Astronautin Lena ist auf einer aufregenden Weltraummission und sammelt auf dem Planeten Xylos 387 spezielle Weltraumsteine f\u00fcr ihre Forschung. Auf dem Nachbarplaneten Zenon findet sie weitere 215 dieser seltenen Steine. F\u00fcr ihre gesamte Forschungsmission ben\u00f6tigt Lena aber insgesamt 700 Weltraumsteine. Wie viele Steine fehlen Lena noch, um ihr Ziel zu erreichen?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittige Addition und Subtraktion (Zielerreichung)",
+    "Answer": 98,
+    "metric": "Weltraumsteine",
+    "steps": "Schritt 1: Zuerst werden die auf beiden Planeten gesammelten Steine addiert. 387 Weltraumsteine (Xylos) + 215 Weltraumsteine (Zenon) = 602 Weltraumsteine. Schritt 2: Dann wird die Gesamtmenge der gesammelten Steine von der ben\u00f6tigten Gesamtmenge abgezogen. 700 Weltraumsteine (ben\u00f6tigt) - 602 Weltraumsteine (gesammelt) = 98 Weltraumsteine. Lena fehlen noch 98 Weltraumsteine."
+  },
+  {
+    "Problem": "Leni sammelt bunte Herbstbl\u00e4tter im Wald. Sie findet 7 B\u00fcndel mit jeweils 25 Ahornbl\u00e4ttern und au\u00dferdem 140 Eichenbl\u00e4tter. Wie viele Bl\u00e4tter hat Leni insgesamt gesammelt?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittige Multiplikation und Addition",
+    "Answer": 315,
+    "metric": "Bl\u00e4tter",
+    "steps": "Schritt 1: Zuerst berechnen wir die Anzahl der Ahornbl\u00e4tter. Leni hat 7 B\u00fcndel mit je 25 Bl\u00e4ttern: 7 \u00d7 25 = 175 Ahornbl\u00e4tter. Schritt 2: Nun addieren wir die Eichenbl\u00e4tter dazu. 175 Ahornbl\u00e4tter + 140 Eichenbl\u00e4tter = 315 Bl\u00e4tter. Leni hat insgesamt 315 Bl\u00e4tter gesammelt."
+  },
+  {
+    "Problem": "Die tapfere Abenteurerin Elara ist auf einer spannenden Schatzsuche im geheimnisvollen Zauberwald. Sie startet mit einem Rucksack, der bereits 115 glitzernde Kristalle enthält. Ihr erster Hinweis führt sie zu einer verborgenen Höhle, wo sie 4 kleine Truhen mit weiteren Kristallen entdeckt. Jede dieser kleinen Truhen birgt genau 75 glitzernde Kristalle. Auf dem Rückweg muss sie durch einen tückischen Sumpf waten und verliert dabei unglücklicherweise 40 Kristalle, die ihr aus dem Rucksack fallen. Ein frecher Kobold hat ihr dabei zugeschaut, aber keine Kristalle gestohlen. Wenn Elara die übrigen Kristalle gerecht auf 5 ihrer Freundinnen aufteilen möchte, wie viele Kristalle bekommt dann jede Freundin?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittige Aufgabe (Kombinierte Operationen)",
+    "Answer": 75,
+    "metric": "Kristalle",
+    "steps": "1. Zuerst berechnen wir, wie viele Kristalle Elara in den Truhen findet: 4 Truhen × 75 Kristalle/Truhe = 300 Kristalle.\n2. Dann addieren wir diese zu den Kristallen, die sie bereits hatte: 115 Kristalle (Start) + 300 Kristalle (aus Truhen) = 415 Kristalle.\n3. Danach ziehen wir die Kristalle ab, die sie im Sumpf verloren hat: 415 Kristalle − 40 Kristalle = 375 Kristalle.\n4. Zum Schluss teilt Elara die verbleibenden Kristalle gerecht auf ihre 5 Freundinnen auf: 375 Kristalle ÷ 5 Freundinnen = 75 Kristalle/Freundin. Jede Freundin bekommt 75 Kristalle."
+  },
+  {
+    "Problem": "Eine Gruppe von vier jungen Schatzsuchern – Lena, Tom, Mia und Ben – begibt sich tief in den Dschungel, um eine alte Ruine zu erkunden. Ihr großes Ziel ist es, insgesamt 800 goldene Dschungelmünzen zu finden, um das örtliche Kinderheim zu unterstützen. Jeder Schatzsucher hat einen robusten Rucksack dabei, in den maximal 150 Münzen passen. Lena entdeckt in einer verborgenen Kammer 68 Münzen. Tom, der eine andere, besonders gut versteckte Nische untersucht, findet dreimal so viele Münzen wie Lena. Mia hat leider nur die Hälfte der Münzen gefunden, die Tom entdeckt hat. Ben wiederum findet 12 Münzen mehr als Mia. Nachdem sie alle ihre Funde zusammengerechnet haben, stellen sie fest, dass sie immer noch nicht genug Münzen haben. Wie viele Münzen müssen sie noch finden, um ihr Ziel von 800 Münzen zu erreichen?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittige Aufgabe (Gemischte Operationen zur Zielerreichung)",
+    "Answer": 312,
+    "metric": "Münzen",
+    "steps": "1. Lena findet: 68 Münzen.\n2. Tom findet: 68 × 3 = 204 Münzen.\n3. Mia findet: 204 ÷ 2 = 102 Münzen.\n4. Ben findet: 102 + 12 = 114 Münzen.\n5. Insgesamt gefundene Münzen: 68 + 204 + 102 + 114 = 488 Münzen.\n6. Münzen, die noch fehlen, um das Ziel von 800 Münzen zu erreichen: 800 - 488 = 312 Münzen."
+  },
+  {
+    "Problem": "Mia und Tom sind begeisterte Naturforscher und begeben sich auf ein spannendes Abenteuer in den geheimnisvollen Flüsterwald, um dort seltene Glitzerblüten-Samen zu entdecken. Am ersten sonnigen Morgen haben sie eine stattliche, aber unbekannte Menge dieser besonderen Samen gefunden und sorgfältig in ihrem Beutel verstaut. Leider kam es am Nachmittag zu einem kleinen Unglück: Ein flinkes Eichhörnchen stieß beim Spielen ungeschickt ihren Beutel um, und so gingen 85 Glitzerblüten-Samen verloren. Am zweiten Tag trafen sie auf den alten Waldgeist, der ihnen anbot, für jeden Bund von 5 Glitzerblüten-Samen eine wertvolle 'Glücksfeder' zu tauschen. Mia und Tom haben dem Geist so viele Samen gegeben, dass sie am Ende genau 12 Glücksfedern besitzen. Als die beiden Forscher den Wald am dritten Tag verlassen, zählen sie noch genau 250 Glitzerblüten-Samen in ihrem nun leichteren Beutel. Der Waldgeist erwähnte übrigens auch, dass es im Flüsterwald sage und schreibe 300 verschiedene Arten von magischen Pilzen gibt. Wie viele Glitzerblüten-Samen hatten Mia und Tom am ersten Morgen ursprünglich gefunden, bevor sie etwas verloren oder eingetauscht haben?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Anfangswert unbekannt mit gemischten Operationen",
+    "Answer": 395,
+    "metric": "Glitzerblüten-Samen",
+    "steps": "1. Zuerst berechnen wir, wie viele Glitzerblüten-Samen Mia und Tom für die Glücksfedern abgegeben haben: 12 Glücksfedern × 5 Samen/Feder = 60 Samen.\n2. Jetzt wissen wir, wie viele Samen sie hatten, bevor sie die 60 Samen abgegeben haben: 250 Samen (übrig) + 60 Samen (abgegeben) = 310 Samen.\n3. Zum Schluss berechnen wir, wie viele Samen sie ursprünglich am ersten Morgen gefunden hatten, bevor sie die 85 Samen verloren haben: 310 Samen (nach Verlust und Handel) + 85 Samen (verloren) = 395 Samen. Mia und Tom hatten ursprünglich 395 Glitzerblüten-Samen gefunden."
+  }
+]

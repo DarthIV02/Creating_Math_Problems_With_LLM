@@ -1,0 +1,488 @@
+[
+  {
+    "Problem": "Beim gro\u00dfen Drachenfest l\u00e4sst Lena ihren Drachen steigen. Am ersten Tag fliegt ihr Drachen 35 Meter hoch. Am zweiten Tag fliegt er 15 Meter h\u00f6her als am ersten Tag. Wie hoch fliegt ihr Drachen am zweiten Tag?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Addition",
+    "Answer": 50,
+    "metric": "Meter",
+    "steps": "35+15=50."
+  },
+  {
+    "Problem": "Beim Drachenfest ließ Leo seinen großen Drachen 3 Mal in die Luft. Das erste Mal stieg er 120 Meter hoch, das zweite Mal 155 Meter und das dritte Mal 136 Meter. Wie hoch war der Drachen im Durchschnitt?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Durchschnitt",
+    "Answer": 137,
+    "metric": "Meter",
+    "steps": "1. Zuerst addieren wir die Höhen der drei Flüge: 120 + 155 + 136 = 411 Meter.\n2. Danach teilen wir die Summe durch die Anzahl der Flüge, um den Durchschnitt zu erhalten: 411 ÷ 3 = 137 Meter."
+  },
+  {
+    "Problem": "Auf dem Abenteuerspielplatz gibt es 5 Rutschen. Jede Rutsche ist 7 Meter lang. Wie viele Meter lang sind alle Rutschen zusammen?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Multiplikation",
+    "Answer": 35,
+    "metric": "Meter",
+    "steps": "5x7=35."
+  },
+  {
+    "Problem": "Auf dem Abenteuerspielplatz gibt es 5 verschiedene Klettergerüste. Jedes Klettergerüst hat 3 Leitern, und jede Leiter besteht aus 12 Sprossen. Wie viele Sprossen gibt es insgesamt auf allen Klettergerüsten?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Multiplikation, mehrschrittig",
+    "Answer": 180,
+    "metric": "Sprossen",
+    "steps": "1. Zuerst berechnen wir, wie viele Sprossen ein einzelnes Klettergerüst hat: 3 Leitern x 12 Sprossen pro Leiter = 36 Sprossen.\n2. Anschließend multiplizieren wir das mit der Anzahl der Klettergerüste: 36 Sprossen × 5 Klettergerüste = 180 Sprossen."
+  },
+  {
+    "Problem": "Ein Pfadfinderlager hat 3 Zelte. In jedem Zelt schlafen 5 Kinder. F\u00fcr die Abendk\u00fcche werden von jedem Kind 3 Marshmallows ben\u00f6tigt. Wie viele Marshmallows werden insgesamt verbraucht?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Multiplikation",
+    "Answer": 45,
+    "metric": "Marshmallows",
+    "steps": "3\u00d75=15, 15\u00d73=45."
+  },
+  {
+    "Problem": "Beim jährlichen Waldlauf sammeln die Schüler des 4. Jahrgangs fleißig Müll. In der Klasse von Herrn Müller gibt es 4 Teams mit jeweils 5 Schülern. Jedes Kind sammelt im Durchschnitt 3 volle Säcke Müll. Ein voller Müllsack wiegt ungefähr 7 kg. Wie viel Kilogramm Müll haben die Schüler insgesamt gesammelt?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Textaufgabe (Multiplikation)",
+    "Answer": 420,
+    "metric": "kg",
+    "steps": "1. Zuerst berechnen wir die Gesamtzahl der Schüler: 4 Teams x 5 Schüler/Team = 20 Schüler.\n2. Dann berechnen wir die Gesamtzahl der gesammelten Säcke: 20 Schüler × 3 Säcke/Schüler = 60 Säcke.\n3. Zum Schluss berechnen wir das Gesamtgewicht des Mülls: 60 Säcke × 7 kg/Sack = 420 kg."
+  },
+  {
+    "Problem": "Im Zirkus \"Fantasia\" gibt es 3 Artisten-Teams. Team A hat 12 Mitglieder, Team B hat 15 Mitglieder und Team C hat 18 Mitglieder. Jedes Mitglied aus Team A erhält 4 goldene Sterne pro Auftritt, jedes Mitglied aus Team B erhält 6 goldene Sterne und jedes Mitglied aus Team C erhält 4 goldene Sterne. Wenn alle Teams zusammen 10 Auftritte absolvieren, wie viele goldene Sterne werden insgesamt verteilt?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Rechenoperationen",
+    "Answer": 2100,
+    "metric": "goldene Sterne",
+    "steps": "1. Team A sammelt pro Auftritt: 12 Mitglieder × 4 Sterne = 48 Sterne.\n2. Team B sammelt pro Auftritt: 15 Mitglieder × 6 Sterne = 90 Sterne.\n3. Team C sammelt pro Auftritt: 18 Mitglieder × 4 Sterne = 72 Sterne.\n4. Gesamtanzahl der Sterne pro Auftritt: 48 + 90 + 72 = 210 Sterne.\n5. Gesamtanzahl für 10 Auftritte: 210 Sterne × 10 Auftritte = 2100 Sterne."
+  },
+  {
+    "Problem": "Bei einer Sternenbeobachtung hat die Klasse 4a in der ersten Stunde 4 Sternbilder mit jeweils 7,5 Millionen Lichtjahren Abstand entdeckt. In der zweiten Stunde kamen 3 weitere Sternbilder hinzu, die im Durchschnitt 12,3 Millionen Lichtjahre von der Erde entfernt waren. Wie gro\u00df ist die Summe der Abst\u00e4nde aller entdeckten Sternbilder in Millionen Lichtjahren?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Addition und Multiplikation",
+    "Answer": 63.9,
+    "metric": "Millionen Lichtjahre",
+    "steps": "7.5 \u00d7 4 = 30, 12.3 \u00d7 3 = 36.9, 30 + 36.9 = 66.9"
+  },
+  {
+    "Problem": "Ein geheimes Agenten-Team soll verschlüsselte Nachrichten entschlüsseln. Sie erhalten 5 Pakete mit je 1.250 Geheimzeichen. Jedes Zeichen hat eine 1 zu 10 Wahrscheinlichkeit, falsch entschlüsselt zu werden. Wenn sie ein Zeichen falsch entschlüsseln, müssen sie 5 Minuten zusätzliche Arbeit investieren. Wie viele zusätzliche Minuten müssen sie im schlimmsten Fall für die Korrektur aufwenden, um alle Zeichen aus den 5 Paketen zu entschlüsseln?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Berechnung (Multiplikation, Division, Multiplikation)",
+    "Answer": 3125,
+    "metric": "Minuten",
+    "steps": "5 * 1250 = 6250, 6250 / 10 = 625, 625 * 5 = 3125."
+  },
+  {
+    "Problem": "Finn sammelt bunte Sticker. Er hat schon 43 Sticker in seinem Album. Heute hat er 28 neue Sticker bekommen. Wie viele Sticker hat Finn jetzt insgesamt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Addition",
+    "Answer": 71,
+    "metric": "Sticker",
+    "steps": "Anfang: 43 Sticker. Neue Sticker: 28. Rechnung: 43 + 28 = 71. Finn hat jetzt 71 Sticker insgesamt."
+  },
+  {
+    "Problem": "Leo sammelt am Strand 25 gl\u00e4nzende Muscheln. Seine Freundin Mia findet etwas sp\u00e4ter noch 12 weitere Muscheln und gibt sie Leo. Wie viele Muscheln besitzt Leo nun insgesamt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Addition",
+    "Answer": 37,
+    "metric": "Muscheln",
+    "steps": "Anzahl der zuerst gesammelten Muscheln: 25. Anzahl der von Mia hinzugef\u00fcgten Muscheln: 12. Rechnung: 25 + 12 = 37. Leo hat jetzt insgesamt 37 Muscheln."
+  },
+  {
+    "Problem": "Anna liebt es, im Herbst bunte Bl\u00e4tter zu sammeln. Sie findet 25 rote Ahornbl\u00e4tter und sp\u00e4ter noch 18 gelbe Eichenbl\u00e4tter. Wie viele Bl\u00e4tter hat Anna insgesamt gesammelt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Addition",
+    "Answer": 43,
+    "metric": "Bl\u00e4tter",
+    "steps": "Anzahl der Ahornbl\u00e4tter: 25. Anzahl der Eichenbl\u00e4tter: 18. Rechnung: 25 + 18 = 43. Anna hat insgesamt 43 Bl\u00e4tter gesammelt."
+  },
+  {
+    "Problem": "Leo, ein Abenteurer, findet 6 Beutel mit Edelsteinen. Jeder Beutel hat 130 Edelsteine. 45 Edelsteine sind leider aus Glas. Wie viele echte Edelsteine hat Leo?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe (Multiplikation und Subtraktion)",
+    "Answer": 735,
+    "metric": "Edelsteine",
+    "steps": "1. Berechne die Gesamtzahl der gefundenen Edelsteine: 6 Beutel \u00d7 130 Edelsteine/Beutel = 780 Edelsteine. 2. Ziehe die Glassteine ab, um die echten Edelsteine zu erhalten: 780 Edelsteine - 45 Glassteine = 735 echte Edelsteine. Leo hat 735 echte Edelsteine gefunden."
+  },
+  {
+    "Problem": "Astronautin Lena ist auf einer aufregenden Weltraummission und sammelt auf dem Planeten Xylos 387 spezielle Weltraumsteine f\u00fcr ihre Forschung. Auf dem Nachbarplaneten Zenon findet sie weitere 215 dieser seltenen Steine. F\u00fcr ihre gesamte Forschungsmission ben\u00f6tigt Lena aber insgesamt 700 Weltraumsteine. Wie viele Steine fehlen Lena noch, um ihr Ziel zu erreichen?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittige Addition und Subtraktion (Zielerreichung)",
+    "Answer": 98,
+    "metric": "Weltraumsteine",
+    "steps": "Schritt 1: Zuerst werden die auf beiden Planeten gesammelten Steine addiert. 387 Weltraumsteine (Xylos) + 215 Weltraumsteine (Zenon) = 602 Weltraumsteine. Schritt 2: Dann wird die Gesamtmenge der gesammelten Steine von der ben\u00f6tigten Gesamtmenge abgezogen. 700 Weltraumsteine (ben\u00f6tigt) - 602 Weltraumsteine (gesammelt) = 98 Weltraumsteine. Lena fehlen noch 98 Weltraumsteine."
+  },
+  {
+    "Problem": "Leni sammelt bunte Herbstbl\u00e4tter im Wald. Sie findet 7 B\u00fcndel mit jeweils 25 Ahornbl\u00e4ttern und au\u00dferdem 140 Eichenbl\u00e4tter. Wie viele Bl\u00e4tter hat Leni insgesamt gesammelt?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittige Multiplikation und Addition",
+    "Answer": 315,
+    "metric": "Bl\u00e4tter",
+    "steps": "Schritt 1: Zuerst berechnen wir die Anzahl der Ahornbl\u00e4tter. Leni hat 7 B\u00fcndel mit je 25 Bl\u00e4ttern: 7 \u00d7 25 = 175 Ahornbl\u00e4tter. Schritt 2: Nun addieren wir die Eichenbl\u00e4tter dazu. 175 Ahornbl\u00e4tter + 140 Eichenbl\u00e4tter = 315 Bl\u00e4tter. Leni hat insgesamt 315 Bl\u00e4tter gesammelt."
+  },
+  {
+    "Problem": "Die tapfere Abenteurerin Elara ist auf einer spannenden Schatzsuche im geheimnisvollen Zauberwald. Sie startet mit einem Rucksack, der bereits 115 glitzernde Kristalle enthält. Ihr erster Hinweis führt sie zu einer verborgenen Höhle, wo sie 4 kleine Truhen mit weiteren Kristallen entdeckt. Jede dieser kleinen Truhen birgt genau 75 glitzernde Kristalle. Auf dem Rückweg muss sie durch einen tückischen Sumpf waten und verliert dabei unglücklicherweise 40 Kristalle, die ihr aus dem Rucksack fallen. Ein frecher Kobold hat ihr dabei zugeschaut, aber keine Kristalle gestohlen. Wenn Elara die übrigen Kristalle gerecht auf 5 ihrer Freundinnen aufteilen möchte, wie viele Kristalle bekommt dann jede Freundin?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittige Aufgabe (Kombinierte Operationen)",
+    "Answer": 75,
+    "metric": "Kristalle",
+    "steps": "1. Zuerst berechnen wir, wie viele Kristalle Elara in den Truhen findet: 4 Truhen × 75 Kristalle/Truhe = 300 Kristalle.\n2. Dann addieren wir diese zu den Kristallen, die sie bereits hatte: 115 Kristalle (Start) + 300 Kristalle (aus Truhen) = 415 Kristalle.\n3. Danach ziehen wir die Kristalle ab, die sie im Sumpf verloren hat: 415 Kristalle − 40 Kristalle = 375 Kristalle.\n4. Zum Schluss teilt Elara die verbleibenden Kristalle gerecht auf ihre 5 Freundinnen auf: 375 Kristalle ÷ 5 Freundinnen = 75 Kristalle/Freundin. Jede Freundin bekommt 75 Kristalle."
+  },
+  {
+    "Problem": "Eine Gruppe von vier jungen Schatzsuchern – Lena, Tom, Mia und Ben – begibt sich tief in den Dschungel, um eine alte Ruine zu erkunden. Ihr großes Ziel ist es, insgesamt 800 goldene Dschungelmünzen zu finden, um das örtliche Kinderheim zu unterstützen. Jeder Schatzsucher hat einen robusten Rucksack dabei, in den maximal 150 Münzen passen. Lena entdeckt in einer verborgenen Kammer 68 Münzen. Tom, der eine andere, besonders gut versteckte Nische untersucht, findet dreimal so viele Münzen wie Lena. Mia hat leider nur die Hälfte der Münzen gefunden, die Tom entdeckt hat. Ben wiederum findet 12 Münzen mehr als Mia. Nachdem sie alle ihre Funde zusammengerechnet haben, stellen sie fest, dass sie immer noch nicht genug Münzen haben. Wie viele Münzen müssen sie noch finden, um ihr Ziel von 800 Münzen zu erreichen?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittige Aufgabe (Gemischte Operationen zur Zielerreichung)",
+    "Answer": 312,
+    "metric": "Münzen",
+    "steps": "1. Lena findet: 68 Münzen.\n2. Tom findet: 68 × 3 = 204 Münzen.\n3. Mia findet: 204 ÷ 2 = 102 Münzen.\n4. Ben findet: 102 + 12 = 114 Münzen.\n5. Insgesamt gefundene Münzen: 68 + 204 + 102 + 114 = 488 Münzen.\n6. Münzen, die noch fehlen, um das Ziel von 800 Münzen zu erreichen: 800 - 488 = 312 Münzen."
+  },
+  {
+    "Problem": "Mia und Tom sind begeisterte Naturforscher und begeben sich auf ein spannendes Abenteuer in den geheimnisvollen Flüsterwald, um dort seltene Glitzerblüten-Samen zu entdecken. Am ersten sonnigen Morgen haben sie eine stattliche, aber unbekannte Menge dieser besonderen Samen gefunden und sorgfältig in ihrem Beutel verstaut. Leider kam es am Nachmittag zu einem kleinen Unglück: Ein flinkes Eichhörnchen stieß beim Spielen ungeschickt ihren Beutel um, und so gingen 85 Glitzerblüten-Samen verloren. Am zweiten Tag trafen sie auf den alten Waldgeist, der ihnen anbot, für jeden Bund von 5 Glitzerblüten-Samen eine wertvolle 'Glücksfeder' zu tauschen. Mia und Tom haben dem Geist so viele Samen gegeben, dass sie am Ende genau 12 Glücksfedern besitzen. Als die beiden Forscher den Wald am dritten Tag verlassen, zählen sie noch genau 250 Glitzerblüten-Samen in ihrem nun leichteren Beutel. Der Waldgeist erwähnte übrigens auch, dass es im Flüsterwald sage und schreibe 300 verschiedene Arten von magischen Pilzen gibt. Wie viele Glitzerblüten-Samen hatten Mia und Tom am ersten Morgen ursprünglich gefunden, bevor sie etwas verloren oder eingetauscht haben?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Anfangswert unbekannt mit gemischten Operationen",
+    "Answer": 395,
+    "metric": "Glitzerblüten-Samen",
+    "steps": "1. Zuerst berechnen wir, wie viele Glitzerblüten-Samen Mia und Tom für die Glücksfedern abgegeben haben: 12 Glücksfedern × 5 Samen/Feder = 60 Samen.\n2. Jetzt wissen wir, wie viele Samen sie hatten, bevor sie die 60 Samen abgegeben haben: 250 Samen (übrig) + 60 Samen (abgegeben) = 310 Samen.\n3. Zum Schluss berechnen wir, wie viele Samen sie ursprünglich am ersten Morgen gefunden hatten, bevor sie die 85 Samen verloren haben: 310 Samen (nach Verlust und Handel) + 85 Samen (verloren) = 395 Samen. Mia und Tom hatten ursprünglich 395 Glitzerblüten-Samen gefunden."
+  },
+  {
+    "Problem": "Ein G\u00e4rtner pflanzt in seinem Garten 24 Blumen. Nach einigen Tagen gibt er 8 Blumen an seine Nachbarin ab. Wie viele Blumen bleiben ihm noch?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Subtraktion",
+    "Answer": 16,
+    "metric": "Blumen",
+    "steps": "Anfangs hat der G\u00e4rtner 24 Blumen. Er gibt 8 Blumen ab. Rechnung: 24\u22128=16. Es bleiben ihm 16 Blumen."
+  },
+  {
+    "Problem": "Tom hat 34 bunte Murmeln. Er findet noch 18 weitere Murmeln im Park. Wie viele Murmeln hat Tom jetzt insgesamt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Addition",
+    "Answer": 52,
+    "metric": "Murmeln",
+    "steps": "Anfang: 34 Murmeln. Gefundene Murmeln: 18. Rechnung: 34 + 18 = 52. Insgesamt hat Tom jetzt 52 Murmeln."
+  },
+  {
+    "Problem": "Anna hat in ihrem Garten 15 Blumen. Sie pflanzt 7 neue Blumen dazu. Wie viele Blumen hat Anna jetzt insgesamt in ihrem Garten?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Einfache Addition",
+    "Answer": 22,
+    "metric": "Blumen",
+    "steps": "Anzahl der Blumen anfangs: 15. Neue Blumen: 7. Rechnung: 15 + 7 = 22. Insgesamt hat Anna 22 Blumen in ihrem Garten."
+  },
+  {
+    "Problem": "Tom hat 150 Murmeln. Er gibt 28 Murmeln an seine Freundin Mia und danach 15 Murmeln an seinen Freund Felix. Wie viele Murmeln hat Tom jetzt noch?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe (Subtraktion)",
+    "Answer": 107,
+    "metric": "Murmeln",
+    "steps": "1. Startmenge: Tom hat 150 Murmeln. 2. Erste Gabe: 150 - 28 = 122 Murmeln. 3. Zweite Gabe: 122 - 15 = 107 Murmeln. Ergebnis: Tom hat noch 107 Murmeln."
+  },
+  {
+    "Problem": "Klara hat 125 Murmeln. Ihr Freund Tom schenkt ihr 48 zus\u00e4tzliche Murmeln. Sp\u00e4ter verliert sie 27 Murmeln beim Spielen im Park. Wie viele Murmeln hat Klara jetzt?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe (Kopfrechnen)",
+    "Answer": 146,
+    "metric": "Murmeln",
+    "steps": "Anfang: 125 Murmeln. Tom schenkt Klara 48 Murmeln \u2192 125 + 48 = 173. Klara verliert 27 Murmeln \u2192 173 - 27 = 146. Jetzt hat Klara 146 Murmeln."
+  },
+  {
+    "Problem": "In einem Zoo gibt es 125 V\u00f6gel und 75 S\u00e4ugetiere. Der Zoow\u00e4rter bringt 20 neue V\u00f6gel und verkauft 10 S\u00e4ugetiere. Wie viele Tiere gibt es jetzt insgesamt im Zoo?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe (Addition und Subtraktion)",
+    "Answer": 210,
+    "metric": "Tiere",
+    "steps": "Anfang: 125 V\u00f6gel und 75 S\u00e4ugetiere. Neue V\u00f6gel: 20. Verkaufte S\u00e4ugetiere: 10. Rechnung: 125 + 20 = 145 V\u00f6gel. Rechnung: 75 - 10 = 65 S\u00e4ugetiere. Insgesamt: 145 + 65 = 210 Tiere im Zoo."
+  },
+  {
+    "Problem": "Timo hat 4 gro\u00dfe Kisten, in denen seine Spielzeuge aufbewahrt sind. Jede Kiste enth\u00e4lt 56 Spielzeuge. Eines Tages entscheidet er sich, 75 Spielzeuge an seine Freunde zu verschenken. Wie viele Spielzeuge bleiben ihm am Ende noch?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittige Subtraktion und Multiplikation",
+    "Answer": 149,
+    "metric": "Spielzeuge",
+    "steps": "Schritt 1: Timo hat 4 Kisten mit je 56 Spielzeugen: 4 \u00d7 56 = 224 Spielzeuge. Schritt 2: Timo verschenkt 75 Spielzeuge: 224 - 75 = 149 Spielzeuge."
+  },
+  {
+    "Problem": "In einem Abenteuerpark gibt es 5 verschiedene Attraktionen. Jede Attraktion hat eine maximale Kapazit\u00e4t von 120 Personen. Wenn am Wochenende zur Hauptsaison durchschnittlich 80% der Kapazit\u00e4t jeder Attraktion voll ist, wie viele Personen sind insgesamt in den Attraktionen, wenn alle gleichzeitig voll ausgelastet sind?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittige Multiplikation und Prozentsatz",
+    "Answer": 480,
+    "metric": "Personen",
+    "steps": "Jede Attraktion hat eine Kapazit\u00e4t von 120 Personen. Es gibt 5 Attraktionen, also: 5 \u00d7 120 = 600 Personen maximal. Aber nur 80% der Kapazit\u00e4t werden zur Hauptsaison voll genutzt, also berechnen wir 80% von 600: 600 \u00d7 0,8 = 480 Personen. Insgesamt sind 480 Personen in den Attraktionen."
+  },
+  {
+    "Problem": "Max und Sophie sind auf einem Abenteuer in einem magischen Wald. Sie finden einen kleinen Baum, unter dem 36 goldene \u00c4pfel liegen. Max nimmt 12 \u00c4pfel und Sophie findet 4x so viele wie Max. Wie viele \u00c4pfel bleiben noch unter dem Baum?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Gemischte Operationen (Addition und Multiplikation)",
+    "Answer": 4,
+    "metric": "\u00c4pfel",
+    "steps": "Anfang: 36 \u00c4pfel unter dem Baum. Max nimmt 12 \u00c4pfel \u2192 36 - 12 = 24 \u00c4pfel bleiben. Sophie findet 4\u00d712 = 48 \u00c4pfel. Es gibt also insgesamt 24 + 48 = 72 \u00c4pfel. Aber wir ber\u00fccksichtigen nur die \u00c4pfel, die unter dem Baum geblieben sind: 72 - 72 = 0. Das ist nicht korrekt, also: Max nimmt 12 \u00c4pfel. Die totalen \u00c4pfel sind 36 - 12 = 24. Sophie fand 0 zus\u00e4tzliche \u00c4pfel, da sie nichts nahm. Die Antwort ist 24 \u00c4pfel, 0 \u00c4pfel bleiben unter dem Baum."
+  },
+  {
+    "Problem": "Max und Lisa sammeln Krippenfiguren. Max hat 12 Figuren und Lisa hat 8 Figuren. Wie viele Figuren haben sie zusammen?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Einfache Addition",
+    "Answer": 20,
+    "metric": "Figuren",
+    "steps": "Addiere die Anzahl der Figuren von Max und Lisa: 12 + 8 = 20. Zusammen haben Max und Lisa 20 Figuren."
+  },
+  {
+    "Problem": "Lena hat 25 Buntstifte. Sie verschenkt 7 Buntstifte an ihre Freundin. Wie viele Buntstifte hat Lena jetzt noch?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Einfache Subtraktion",
+    "Answer": 18,
+    "metric": "Buntstifte",
+    "steps": "Beginne mit der Anzahl der Buntstifte: 25. Ziehe die Anzahl der verschenkte Buntstifte ab: 25 - 7 = 18. Lena hat jetzt 18 Buntstifte."
+  },
+  {
+    "Problem": "Lena hat 15 \u00c4pfel und gibt 7 ihrer Freunde. Wie viele \u00c4pfel beh\u00e4lt sie?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Einfache Subtraktion",
+    "Answer": 8,
+    "metric": "\u00c4pfel",
+    "steps": "Lena hat 15 \u00c4pfel. Sie gibt 7 \u00c4pfel weg. Ziehe die 7 gegebenen \u00c4pfel von den 15 \u00c4pfeln ab: 15 - 7 = 8. Lena beh\u00e4lt 8 \u00c4pfel."
+  },
+  {
+    "Problem": "In einem Tierheim gibt es 235 Hunde und 187 Katzen. Bei einem gro\u00dfen Adoptionstag werden 78 Hunde und 45 Katzen adoptiert. Wie viele Tiere sind danach noch im Tierheim?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Subtraktion",
+    "Answer": 299,
+    "metric": "Tiere",
+    "steps": "Berechne die Anzahl adoptierten Tiere: 78 Hunde + 45 Katzen = 123 Tiere. Ziehe die adoptierten Tiere von der Gesamtheit der Tiere im Tierheim ab: 235 Hunde + 187 Katzen = 422 Tiere. 422 Tiere - 123 adoptierten Tiere = 299 Tiere sind noch im Tierheim."
+  },
+  {
+    "Problem": "In einem Tierheim sind 125 Hunde und 87 Katzen. Wenn 34 Hunde und 15 Katzen adoptiert werden, wie viele Tiere sind dann noch im Tierheim?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Subtraktion",
+    "Answer": 163,
+    "metric": "Tiere",
+    "steps": "Z\u00e4hle die urspr\u00fcngliche Anzahl der Hunde und Katzen: 125 Hunde + 87 Katzen = 212 Tiere. Berechne die adoptierten Tiere: 34 Hunde + 15 Katzen = 49 Tiere. Ziehe die adoptierten Tiere von der Gesamtsumme ab: 212 - 49 = 163 Tiere bleiben im Tierheim."
+  },
+  {
+    "Problem": "Sophie hat 250g Mehl, um Kekse zu backen. Sie braucht f\u00fcr ein Rezept 75g. Wenn sie das Rezept dreimal backt, wie viel Mehl bleibt \u00fcbrig?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Subtraktion",
+    "Answer": 25,
+    "metric": "g",
+    "steps": "Berechne, wie viel Mehl f\u00fcr drei Rezepte ben\u00f6tigt wird: 75g \u00d7 3 = 225g. Ziehe die ben\u00f6tigte Menge vom Gesamtmehl ab: 250g - 225g = 25g. Somit bleiben 25g Mehl \u00fcbrig."
+  },
+  {
+    "Problem": "In einem gro\u00dfen Park gibt es insgesamt 8 Spielpl\u00e4tze. Jeder Spielplatz hat 12 Schaukeln. Zus\u00e4tzlich gibt es 5 Rutschen, und an jeder Rutsche spielen 4 Kinder. Wenn 3 Kinder von den Schaukeln zu den Rutschen gehen, wie viele Kinder sind dann insgesamt auf den Spielpl\u00e4tzen?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Addition und Multiplikation",
+    "Answer": 62,
+    "metric": "Kinder",
+    "steps": "Berechne zuerst die Gesamtzahl der Schaukeln: 8 Spielpl\u00e4tze \u00d7 12 Schaukeln = 96 Schaukeln. Danach berechne die Anzahl der Kinder auf den Rutschen: 5 Rutschen \u00d7 4 Kinder = 20 Kinder. Addiere die Kinder auf den Schaukeln (96) und auf den Rutschen (20): 96 + 20 = 116. Ziehe die 3 Kinder ab, die von den Schaukeln gehen: 116 - 3 = 113. Das ergibt schlie\u00dflich 113 Kinder im Park."
+  },
+  {
+    "Problem": "Im Kletterpark gibt es 6 verschiedene Routen. Jede Route hat eine unterschiedliche Anzahl von \u00dcbungen. Route A hat 25 \u00dcbungen, Route B 30, Route C 18, Route D 22, Route E 27 und Route F 15. Der Kletterpark plant, 15 neue \u00dcbungen zu Route B und 10 neue \u00dcbungen zu Route D hinzuzuf\u00fcgen. Wie viele \u00dcbungen gibt es in diesen beiden Routen zusammen, nachdem die neuen \u00dcbungen hinzugef\u00fcgt wurden?",
+    "Difficulty": "Hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschrittige Addition und Subtraktion",
+    "Answer": 77,
+    "metric": "\u00dcbungen",
+    "steps": "Addiere die urspr\u00fcnglichen \u00dcbungen von Route B und Route D: 30 (Route B) + 22 (Route D) = 52. Addiere die neuen \u00dcbungen: 15 (neue \u00dcbungen f\u00fcr Route B) + 10 (neue \u00dcbungen f\u00fcr Route D) = 25. Addiere beide Ergebnisse: 52 + 25 = 77. Es gibt insgesamt 77 \u00dcbungen in Route B und Route D, nachdem die neuen hinzugef\u00fcgt wurden."
+  },
+  {
+    "Problem": "Lena und Max haben zusammen 7.200 M\u00fcnzen aus ihren Sammelalben. Lena hat 3-mal so viele M\u00fcnzen wie Max. Wie viele M\u00fcnzen hat jeder von ihnen, und wie viele M\u00fcnzen haben sie insgesamt in 3 Monaten gesammelt, wenn sie jeden Monat 200 M\u00fcnzen hinzuf\u00fcgen?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Gemischte Operationen, Verh\u00e4ltnis und Addition",
+    "Answer": 7800,
+    "metric": "M\u00fcnzen",
+    "steps": "Nenne die Anzahl der M\u00fcnzen von Max als x. Dann hat Lena 3x M\u00fcnzen. Das ergibt die Gleichung: x + 3x = 7200. 4x = 7200. Teile beide Seiten durch 4: x = 1800. Max hat also 1800 M\u00fcnzen und Lena hat 3 x 1800 = 5400 M\u00fcnzen. In 3 Monaten sammeln sie insgesamt 3 x 200 = 600 M\u00fcnzen. Nun addiere die zus\u00e4tzlichen M\u00fcnzen zu ihrem urspr\u00fcnglichen Gesamtbestand: 7200 + 600 = 7800."
+  },
+  {
+    "Problem": "Ein Obsth\u00e4ndler hat am Morgen eine gro\u00dfe Lieferung \u00c4pfel erhalten. Zuerst verkauft er 15 Kisten zu je 20 \u00c4pfeln. Danach verkauft er noch 8 kleinere Kisten zu je 12 \u00c4pfeln. Am Abend stellt er fest, dass er noch 140 \u00c4pfel \u00fcbrig hat. Wie viele \u00c4pfel waren in der Lieferung am Morgen?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Startwert unbekannt (Mehrschritt)",
+    "Answer": 536,
+    "metric": "\u00c4pfel",
+    "steps": "1. Verkaufte \u00c4pfel Vormittag: 15 \u00d7 20 = 300. 2. Verkaufte \u00c4pfel Nachmittag: 8 \u00d7 12 = 96. 3. Gesamt verkaufte \u00c4pfel: 300 + 96 = 396. 4. \u00c4pfel am Morgen: 396 + 140 = 536."
+  },
+  {
+    "Problem": "Mia spart f\u00fcr ein Fahrrad, das 250 \u20ac kostet. Sie hat bereits 85 \u20ac gespart. Jede Woche hilft sie ihrer Mutter im Garten und bekommt daf\u00fcr 7 \u20ac. Au\u00dferdem hilft sie ihrem Vater an 3 Wochenenden im Monat beim Autowaschen und bekommt pro Mal 9 \u20ac. Mia m\u00f6chte das Fahrrad in 4 Wochen kaufen. Wie viel Geld fehlt ihr dann noch?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Geld (Mehrschritt)",
+    "Answer": 110,
+    "metric": "Euro",
+    "steps": "7*4=28 (Garten), 9*3=27 (Autowaschen). 28+27=55 (neu gespart). 85+55=140 (gesamt gespart). 250-140=110 (fehlend)."
+  },
+  {
+    "Problem": "Frau Meier hatte zu Beginn des Monats einen bestimmten Geldbetrag auf ihrem Konto. Sie bezahlt ihre Miete von 350 \u20ac. Danach kauft sie f\u00fcr ihre 3 Kinder je ein Buch, das 12 \u20ac kostet. Am Ende des Monats sind noch 450 \u20ac auf ihrem Konto. Wie viel Geld hatte Frau Meier am Anfang des Monats auf ihrem Konto?",
+    "Difficulty": "hard",
+    "Grade": "3",
+    "Question_Type": "Geld (Startwert unbekannt, Mehrschritt)",
+    "Answer": 836,
+    "metric": "Euro",
+    "steps": "1. Kosten f\u00fcr B\u00fccher: 3 \u00d7 12 \u20ac = 36 \u20ac. 2. Gesamtausgaben: 350 \u20ac + 36 \u20ac = 386 \u20ac. 3. Anfangsbetrag: 450 \u20ac + 386 \u20ac = 836 \u20ac."
+  },
+  {
+    "Problem": "Max hat 25 Murmeln gesammelt. Heute findet er noch 12 Murmeln. Wie viele Murmeln hat Max jetzt insgesamt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Zunahme",
+    "Answer": 37,
+    "metric": "Murmeln",
+    "steps": "25 + 12 = 37"
+  },
+  {
+    "Problem": "Paul hat 15 \u00c4pfel, Lisa hat 8 \u00c4pfel. Wie viel mehr \u00c4pfel hat Paul als Lisa?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Vergleich",
+    "Answer": 7,
+    "metric": "\u00c4pfel",
+    "steps": "15 - 8 = 7."
+  },
+  {
+    "Problem": "Marie hat 25 Murmeln. Sie findet noch 12 Murmeln. Wie viele Murmeln hat Marie jetzt?",
+    "Difficulty": "easy",
+    "Grade": "3",
+    "Question_Type": "Zunahme",
+    "Answer": 37,
+    "metric": "Murmeln",
+    "steps": "25 + 12 = 37"
+  },
+  {
+    "Problem": "In einer Sporthalle sind 6 Reihen mit je 15 St\u00fchlen. F\u00fcr ein Konzert werden zus\u00e4tzlich 80 St\u00fchle aufgestellt. Wie viele St\u00fchle stehen dann insgesamt in der Halle?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe (Multiplikation und Addition)",
+    "Answer": 170,
+    "metric": "St\u00fchle",
+    "steps": "6 \u00d7 15 = 90; 90 + 80 = 170."
+  },
+  {
+    "Problem": "In einer Obstkiste sind 450 \u00c4pfel. 3 Freunde teilen sich davon 90 \u00c4pfel gerecht auf und essen sie. Die restlichen \u00c4pfel sollen in T\u00fcten zu je 6 \u00c4pfeln verpackt werden. Wie viele T\u00fcten k\u00f6nnen gef\u00fcllt werden?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Mehrschrittaufgabe (Subtraktion und Division)",
+    "Answer": 60,
+    "metric": "T\u00fcten",
+    "steps": "450 - 90 = 360; 360 / 6 = 60."
+  },
+  {
+    "Problem": "Ein Bauer hat 125 H\u00fchner. Er kauft jede Woche 8 neue H\u00fchner dazu, und das f\u00fcr 3 Wochen. Wie viele H\u00fchner hat er danach insgesamt?",
+    "Difficulty": "medium",
+    "Grade": "3",
+    "Question_Type": "Zunahme (Mehrschritt)",
+    "Answer": 149,
+    "metric": "H\u00fchner",
+    "steps": "8 H\u00fchner/Woche \u00d7 3 Wochen = 24 neue H\u00fchner; 125 H\u00fchner + 24 H\u00fchner = 149 H\u00fchner."
+  },
+  {
+    "Problem": "Jedes Kind bekommt 3 Bonbons. Es sind 12 Kinder. Wie viele Bonbons werden verteilt?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Multiplikation",
+    "Answer": 36,
+    "metric": "Bonbons",
+    "steps": "3 * 12 = 36"
+  },
+  {
+    "Problem": "Leo hat 48 Sammelkarten. Er bekommt 21 weitere Karten von seinem Freund. Wie viele Sammelkarten hat Leo jetzt?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Addition",
+    "Answer": 69,
+    "metric": "Sammelkarten",
+    "steps": "48 + 21 = 69"
+  },
+  {
+    "Problem": "Ein B\u00e4cker backt 45 Br\u00f6tchen. Er verkauft 23 Br\u00f6tchen. Wie viele Br\u00f6tchen sind noch \u00fcbrig?",
+    "Difficulty": "easy",
+    "Grade": "4",
+    "Question_Type": "Subtraktion",
+    "Answer": 22,
+    "metric": "Br\u00f6tchen",
+    "steps": "45-23=22"
+  },
+  {
+    "Problem": "Ein Sportfest hat einen Rundkurs von 850 Metern. Jeder Teilnehmer muss den Kurs 4 Mal durchlaufen. Emilia hat bereits 2 Runden geschafft. Wie viele Meter fehlen ihr noch bis zum Ziel?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschritt / Gemischte Operationen",
+    "Answer": 1700,
+    "metric": "Meter",
+    "steps": "850\u00d74=3400; 850\u00d72=1700; 3400-1700=1700."
+  },
+  {
+    "Problem": "Eine Schule bestellt 12 Kisten Buntstifte. Jede Kiste enth\u00e4lt 30 Stifte. Wenn die Schule bereits 240 Stifte hatte und nun alle Stifte gleichm\u00e4\u00dfig auf 8 Klassen verteilt werden sollen, wie viele Stifte erh\u00e4lt jede Klasse?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Mehrschritt/Gemischte Operationen",
+    "Answer": 75,
+    "metric": "Stifte",
+    "steps": "12\u00d730=360; 360+240=600; 600\u00f78=75."
+  },
+  {
+    "Problem": "Ein B\u00e4cker backt pro Tag 150 Br\u00f6tchen und verkauft sie f\u00fcr je 0,60 Euro. Er verkauft au\u00dferdem 24 Kuchenst\u00fccke f\u00fcr je 2,50 Euro. Wie viel Euro nimmt der B\u00e4cker in einer Woche (7 Tagen) insgesamt ein, wenn er jeden Tag gleich viel verkauft?",
+    "Difficulty": "medium",
+    "Grade": "4",
+    "Question_Type": "Gemischte Operationen",
+    "Answer": 1050,
+    "metric": "Euro",
+    "steps": "150*0.60=90; 24*2.50=60; 90+60=150; 150*7=1050."
+  },
+  {
+    "Problem": "Ein B\u00e4cker hat zu Beginn eine bestimmte Menge Mehl. Er backt 3 Kuchen, f\u00fcr die jeweils 750 g Mehl ben\u00f6tigt werden. Danach backt er 50 Muffins, f\u00fcr die jeweils 50 g Mehl ben\u00f6tigt werden. Am Ende seines Backtages hat er noch 2 kg 250 g Mehl \u00fcbrig. Wie viel Mehl hatte der B\u00e4cker anfangs in Kilogramm?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Startwert-Unbekannt, Gemischte Operationen, Einheitenumrechnung",
+    "Answer": 7,
+    "metric": "Kilogramm",
+    "steps": "3\u00d7750g=2250g. 50\u00d750g=2500g. 2250g+2500g=4750g (verbraucht). 2kg 250g = 2250g (\u00fcbrig). 4750g+2250g=7000g (Anfangsmenge). 7000g=7kg."
+  },
+  {
+    "Problem": "Eine Klasse hat Geld f\u00fcr einen Ausflug gesammelt. Sie kaufen zuerst 30 Saftboxen zu je 0,75\u20ac und 25 belegte Br\u00f6tchen zu je 1,80\u20ac. Danach kaufen sie noch 5 kg \u00c4pfel f\u00fcr 2,50\u20ac pro kg. Am Ende der Eink\u00e4ufe haben sie noch 15,50\u20ac \u00fcbrig. Wie viel Geld hatte die Klasse am Anfang insgesamt? Gib die Antwort in Cent an.",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Mehrschritt/Startwert-unbekannt",
+    "Answer": 9550,
+    "metric": "Cent",
+    "steps": "30*0.75=22.50; 25*1.80=45.00; 5*2.50=12.50; 22.50+45.00+12.50=80.00; 80.00+15.50=95.50; 95.50 Euro sind 9550 Cent."
+  },
+  {
+    "Problem": "Ein S\u00fc\u00dfwarenladen hatte am Morgen eine unbekannte Menge Gummib\u00e4rchen. Im Laufe des Vormittags wurden 2450 g Gummib\u00e4rchen in T\u00fcten gef\u00fcllt und aus dem Lager entfernt. Von den restlichen Gummib\u00e4rchen wurde ein Drittel verkauft. Am Ende des Tages waren noch 3200 g Gummib\u00e4rchen \u00fcbrig. Wie viele Gramm Gummib\u00e4rchen hatte der Laden am Morgen?",
+    "Difficulty": "hard",
+    "Grade": "4",
+    "Question_Type": "Startwert-Unbekannt",
+    "Answer": 7250,
+    "metric": "Gramm",
+    "steps": "3200 sind 2/3 des Restes. Rest = 3200 * 3 / 2 = 4800. Anfangsmenge = 4800 + 2450 = 7250."
+  }
+]

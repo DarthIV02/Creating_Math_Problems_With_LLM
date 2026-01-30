@@ -145,7 +145,6 @@ def build_prompt(grade, difficulty):
         - Optional 1–2 zusätzliche Zahlen dürfen nur als Kontext im Text erscheinen
         - Aufgabe muss vollständig aus den angegebenen Zahlen lösbar bleiben
 
-
         =====================
         REGELN
         =====================

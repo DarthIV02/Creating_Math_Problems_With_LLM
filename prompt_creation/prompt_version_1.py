@@ -126,25 +126,31 @@ def build_prompt(grade, difficulty):
         - Keine impliziten Annahmen (z.B. „pro Tag“, „insgesamt“) ohne klare Angabe
 
         =====================
-        SCHWIERIGKEITSANLEITUNG
+        DIFFICULTY SYSTEM
         =====================
-        Einfach:
-        - 1-Schritt-Berechnungen (+/−/×/÷)
-        - Einfache Zahlen innerhalb des Zahlenraums der Klasse
-        - Alle Zahlen im Frage müssen verwendet werden
+        NumberRange:
+        1 = ≤100
+        2 = ≤1,000
+        3 = ≤10,000
+        Hinweis: Wähle für Klasse 3 nur NumberRange 1 oder 2.
+        
+        Operations:
+        1 = 1 Schritt (+/−)
+        2 = 1-2 Schritte (+/−/×/÷)
+        3 = 3+ Schritte, gemischte Operationen
 
-        Mittel:
-        - 2–3 Schritt-Aufgaben
-        - Gemischte Operationen (+/−/×/÷)
-        - Kann Einheitenumrechnung oder kleine mehrstufige Berechnungen enthalten
-        - Alle Zahlen in "Rechenschritte" müssen zur Berechnung der endgültigen Antwort verwendet werden
+        UnknownType:
+        1 = Ergebnis unbekannt
+        2 = Veränderung unbekannt
+        3 = Startwert unbekannt
 
-        Schwer:
-        - 3–4 Schritt-Aufgaben, gemischte Operationen
-        - Alle Zahlen in "Rechenschritte" müssen zur Berechnung der Antwort beitragen
-        - Optional 1–2 zusätzliche Zahlen dürfen nur als Kontext im Text erscheinen
-        - Aufgabe muss vollständig aus den angegebenen Zahlen lösbar bleiben
+        Language:
+        1 = sehr kurz (1 Satz)
+        2 = kurz (1-2 Sätze)
+        3 = längerer Text oder zusätzliche Daten
 
+        Score = NumberRange + Operations + UnknownType + Language
+        Zielbereich: Easy ≤5 | Medium 6-10 | Hard ≥10
 
         =====================
         REGELN

@@ -1,0 +1,83 @@
+[
+ {
+    "Frage": "Lena hat 24 \u00c4pfel und gibt 8 davon an ihre Freunde weiter. Wie viele \u00c4pfel hat sie noch?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "4",
+    "Aufgabentyp": "Subtraktion",
+    "Antwort": 16,
+    "Einheit": "\u00c4pfel",
+    "Rechenschritte": "24\u22128=16."
+  },
+  {
+    "Frage": "Ein Apfel kostet 2 Euro. Wie viel kosten 4 \u00c4pfel?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "4",
+    "Aufgabentyp": "Multiplikation",
+    "Antwort": 8,
+    "Einheit": "Euro",
+    "Rechenschritte": "2\u00d74=8."
+  },
+  {
+    "Frage": "Anna hat 15 \u00c4pfel. Sie gibt 5 \u00c4pfel an ihren Freund. Wie viele \u00c4pfel hat Anna jetzt noch?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "4",
+    "Aufgabentyp": "Subtraktion",
+    "Antwort": 10,
+    "Einheit": "\u00c4pfel",
+    "Rechenschritte": "15\u22125=10."
+  },
+  {
+    "Frage": "In einer Obstkiste sind 24 \u00c4pfel und 36 Birnen. Wenn 12 \u00c4pfel und 8 Birnen verkauft werden, wie viele Fr\u00fcchte sind dann noch in der Kiste?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "4",
+    "Aufgabentyp": "Mehrschritt/Nachrechnen",
+    "Antwort": 40,
+    "Einheit": "Fr\u00fcchte",
+    "Rechenschritte": "24\u221212=12, 36\u22128=28, 12+28=40."
+  },
+  {
+    "Frage": "Max hat 5 T\u00fcten mit je 12 Bonbons. Er gibt 18 Bonbons an seine Freunde weiter. Wie viele Bonbons hat er jetzt noch?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "4",
+    "Aufgabentyp": "Mehrschritt/Nachrechnen",
+    "Antwort": 42,
+    "Einheit": "Bonbons",
+    "Rechenschritte": "5\u00d712=60, 60\u221218=42."
+  },
+  {
+    "Frage": "Ein Obstladen verkauft \u00c4pfel f\u00fcr 2 Euro pro Kilogramm und Birnen f\u00fcr 3 Euro pro Kilogramm. Wenn ein Kunde 4 kg \u00c4pfel und 2 kg Birnen kauft, wie viel gibt er insgesamt aus?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "4",
+    "Aufgabentyp": "Gemischte Operationen",
+    "Antwort": 18,
+    "Einheit": "Euro",
+    "Rechenschritte": "4\u00d72=8, 2\u00d73=6, 8+6=14."
+  },
+  {
+    "Frage": "Ein Schwimmverein hat 120 Mitglieder, die monatlich 15 Euro Beitrag zahlen. Im Laufe eines Jahres haben 8 Mitglieder gek\u00fcndigt und 5 neue sind beigetreten. Wie viel Euro haben sie am Ende des Jahres insgesamt an Beitr\u00e4gen erhalten?",
+    "Schwierigkeit": "Schwer",
+    "Klasse": "4",
+    "Aufgabentyp": "Mehrschritt/Nachrechnen",
+    "Antwort": 1740,
+    "Einheit": "Euro",
+    "Rechenschritte": "120\u00d715\u00d712=21600, 8+5=3, 120-8+5=117, 117\u00d715\u00d712=21060, 21600-21060=540."
+  },
+  {
+    "Frage": "In einer Obstkiste sind 150 \u00c4pfel und 200 Birnen. Wenn 25 % der \u00c4pfel und 10 % der Birnen verkauft werden, wie viele \u00c4pfel und Birnen bleiben dann in der Kiste?",
+    "Schwierigkeit": "Schwer",
+    "Klasse": "4",
+    "Aufgabentyp": "Mehrschritt/Nachrechnen",
+    "Antwort": 215,
+    "Einheit": "Obst",
+    "Rechenschritte": "150\u00d70.25=37.5, 150-37.5=112.5, 200\u00d70.1=20, 200-20=180, 112.5+180=292."
+  },
+  {
+    "Frage": "Ein Obstbauer hat 240 \u00c4pfel, 180 Birnen und 120 Pflaumen. Er verkauft 50 \u00c4pfel und 30 Pflaumen. Wie viele Fr\u00fcchte bleiben insgesamt?",
+    "Schwierigkeit": "Schwer",
+    "Klasse": "4",
+    "Aufgabentyp": "Mehrschritt/Nachrechnen",
+    "Antwort": 460,
+    "Einheit": "Fr\u00fcchte",
+    "Rechenschritte": "240\u221250=190, 120\u221230=90, 190+180+90=460."
+  }
+]

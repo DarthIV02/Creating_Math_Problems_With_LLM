@@ -1,0 +1,218 @@
+[
+  {
+    "Frage": "Ein B\u00e4cker backt 5 Kuchen. Jeder Kuchen braucht 12 Blaubeeren. Wie viele Blaubeeren werden insgesamt ben\u00f6tigt?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "4",
+    "Aufgabentyp": "Multiplikation",
+    "Antwort": 60,
+    "Einheit": "Blaubeeren",
+    "Rechenschritte": "5\u00d712=60"
+  },
+  {
+    "Frage": "Lena hat f\u00fcr ein Bastelprojekt 42 bunte Kn\u00f6pfe gesammelt. Sie m\u00f6chte diese gleichm\u00e4\u00dfig auf 6 kleine Schachteln verteilen. Wie viele Kn\u00f6pfe kommen in jede Schachtel?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "4",
+    "Aufgabentyp": "Division",
+    "Antwort": 7,
+    "Einheit": "Kn\u00f6pfe",
+    "Rechenschritte": "42\u00f76=7"
+  },
+  {
+    "Frage": "Die Klasse 4a hat 35 bunte Stifte in ihrer Stiftebox. Eine Mitsch\u00fclerin bringt 12 weitere Stifte mit, die sie der Klasse schenkt. Wie viele Stifte sind nun insgesamt in der Stiftebox der Klasse 4a?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "4",
+    "Aufgabentyp": "Addition",
+    "Antwort": 47,
+    "Einheit": "Stifte",
+    "Rechenschritte": "35+12=47"
+  },
+  {
+    "Frage": "Ein Bauer erntet an einem Vormittag 48 kg \u00c4pfel. Am Nachmittag erntet er 15 kg mehr. Er verpackt die gesamte Ernte in S\u00e4cke zu je 3 kg. Wie viele S\u00e4cke ben\u00f6tigt der Bauer insgesamt?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "4",
+    "Aufgabentyp": "Mehrschritt/Nachrechnen",
+    "Antwort": 37,
+    "Einheit": "S\u00e4cke",
+    "Rechenschritte": "48+15=63, 48+63=111, 111\u00f73=37."
+  },
+  {
+    "Frage": "Mia hat 50 Euro. Sie kauft 3 Hefte, die jeweils 2 Euro 50 Cent kosten. Sp\u00e4ter bekommt sie 10 Euro 50 Cent Taschengeld. Wie viel Geld hat Mia jetzt insgesamt in Cent?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "4",
+    "Aufgabentyp": "Gemischte Operationen",
+    "Antwort": 5300,
+    "Einheit": "Cent",
+    "Rechenschritte": "3*250=750, 5000-750=4250, 4250+1050=5300."
+  },
+  {
+    "Frage": "Eine 4. Klasse mit 26 Kindern macht einen Ausflug. Der Bus kostet 250 Euro. Jedes Kind zahlt zus\u00e4tzlich 7 Euro f\u00fcr den Eintritt. Wie viel Euro muss die Klasse insgesamt f\u00fcr den Ausflug sammeln?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "4",
+    "Aufgabentyp": "Mehrschritt",
+    "Antwort": 432,
+    "Einheit": "Euro",
+    "Rechenschritte": "26\u00d77=182, 182+250=432."
+  },
+  {
+    "Frage": "F\u00fcr einen Schulausflug zahlen 25 Kinder jeweils 35 Euro. Der Bus kostet 800 Euro und der Eintritt pro Kind 7 Euro. Wie viel Geld fehlt noch f\u00fcr den Ausflug?",
+    "Schwierigkeit": "Schwer",
+    "Klasse": "4",
+    "Aufgabentyp": "Mehrschritt/Nachrechnen",
+    "Antwort": 100,
+    "Einheit": "Euro",
+    "Rechenschritte": "25*7=175, 800+175=975, 25*35=875, 975-875=100"
+  },
+  {
+    "Frage": "Eine B\u00e4ckerei produziert 3 Tage lang t\u00e4glich 1250 Br\u00f6tchen. Am vierten Tag produzieren sie 500 Br\u00f6tchen weniger als an den anderen Tagen. Wie viele Br\u00f6tchen wurden insgesamt in den 4 Tagen produziert?",
+    "Schwierigkeit": "Schwer",
+    "Klasse": "4",
+    "Aufgabentyp": "Mehrschritt/Nachrechnen",
+    "Antwort": 4500,
+    "Einheit": "Br\u00f6tchen",
+    "Rechenschritte": "3*1250=3750, 1250-500=750, 3750+750=4500"
+  },
+  {
+    "Frage": "F\u00fcr einen Zoobesuch fahren 4 Klassen. Jede Klasse hat 25 Sch\u00fcler. Der Eintritt kostet pro Sch\u00fcler 7 Euro. Zus\u00e4tzlich m\u00fcssen sie 150 Euro f\u00fcr den Bus bezahlen. Die Schule \u00fcbernimmt 300 Euro der Gesamtkosten. Wie viele Euro m\u00fcssen die Sch\u00fcler selbst noch bezahlen?",
+    "Schwierigkeit": "Schwer",
+    "Klasse": "4",
+    "Aufgabentyp": "Gemischte Operationen",
+    "Antwort": 550,
+    "Einheit": "Euro",
+    "Rechenschritte": "4*25=100, 100*7=700, 700+150=850, 850-300=550"
+  },
+  {
+    "Frage": "Ein Kinderclub sammelt Papierflugzeuge f\u00fcr ein Wohlt\u00e4tigkeitsfest. Sie hatten bereits 125 fertige Flugzeuge. F\u00fcnf Kinder bastelten jeweils 15 weitere Flugzeuge. Leider wurden beim Probestart 38 Flugzeuge besch\u00e4digt und k\u00f6nnen nicht mehr verwendet werden. Wie viele heile Papierflugzeuge hat der Club jetzt f\u00fcr das Fest \u00fcbrig?",
+    "Schwierigkeit": "Schwer",
+    "Klasse": "3",
+    "Aufgabentyp": "Zunahme/Abnahme, Mehrschrittaufgabe",
+    "Antwort": 162,
+    "Einheit": "Papierflugzeuge",
+    "Rechenschritte": "5 \u00d7 15 = 75, 125 + 75 = 200, 200 - 38 = 162."
+  },
+  {
+    "Frage": "Ein B\u00e4cker hat am Morgen 900 g Mehl. Er backt zuerst 7 Brote, wof\u00fcr jedes Brot 80 g Mehl ben\u00f6tigt. Danach backt er noch 4 Kuchen, f\u00fcr die jeder Kuchen 30 g Mehl verbraucht. Wie viel Mehl hat der B\u00e4cker am Ende noch \u00fcbrig?",
+    "Schwierigkeit": "Schwer",
+    "Klasse": "3",
+    "Aufgabentyp": "Gewicht (Mehrschritt)",
+    "Antwort": 220,
+    "Einheit": "g",
+    "Rechenschritte": "7*80=560, 4*30=120, 560+120=680, 900-680=220."
+  },
+  {
+    "Frage": "Max hat f\u00fcr den Flohmarkt 6 Holzautos gebastelt und verkauft jedes f\u00fcr 9 Euro. Au\u00dferdem hat er 8 Stofftiere gen\u00e4ht, die er f\u00fcr jeweils 7 Euro verkauft hat. Von dem gesamten eingenommenen Geld muss Max 12 Euro f\u00fcr neue Bastelmaterialien zur\u00fccklegen. Wie viel Geld bleibt Max am Ende noch \u00fcbrig?",
+    "Schwierigkeit": "Schwer",
+    "Klasse": "3",
+    "Aufgabentyp": "Geld (Mehrschritt)",
+    "Antwort": 98,
+    "Einheit": "Euro",
+    "Rechenschritte": "6*9=54, 8*7=56, 54+56=110, 110-12=98."
+  },
+  {
+    "Frage": "In der Klasse 4b sind 25 Sch\u00fcler. F\u00fcr einen Ausflug zahlen sie jeweils 12 Euro. Der Bus f\u00fcr den Ausflug kostet 200 Euro. Wie viel Geld bleibt f\u00fcr die Eintrittskarten \u00fcbrig?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "4",
+    "Aufgabentyp": "Gemischte Operationen",
+    "Antwort": 100,
+    "Einheit": "Euro",
+    "Rechenschritte": "25*12=300; 300-200=100."
+  },
+  {
+    "Frage": "Ein Bauer hat 5 Felder. Jedes Feld ben\u00f6tigt 25 kg D\u00fcnger. Er hat bereits 80 kg D\u00fcnger gekauft. Wie viel kg D\u00fcnger muss er noch kaufen?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "4",
+    "Aufgabentyp": "Mehrschritt/Nachrechnen",
+    "Antwort": 45,
+    "Einheit": "kg",
+    "Rechenschritte": "5 \u00d7 25 = 125, 125 - 80 = 45."
+  },
+  {
+    "Frage": "Eine B\u00e4ckerei hatte morgens 120 Br\u00f6tchen gebacken. Bis zum Mittag wurden 85 Br\u00f6tchen verkauft. Am Nachmittag backten sie zus\u00e4tzlich 50 Br\u00f6tchen. Wie viele Br\u00f6tchen hat die B\u00e4ckerei jetzt?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "4",
+    "Aufgabentyp": "Mehrschritt/Nachrechnen",
+    "Antwort": 85,
+    "Einheit": "Br\u00f6tchen",
+    "Rechenschritte": "120-85=35, 35+50=85."
+  },
+  {
+    "Frage": "Ein B\u00e4cker backt 25 Kuchen. Jeder Kuchen wird mit 4 Kirschen verziert. Wie viele Kirschen ben\u00f6tigt der B\u00e4cker insgesamt?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "4",
+    "Aufgabentyp": "Multiplikation",
+    "Antwort": 100,
+    "Einheit": "Kirschen",
+    "Rechenschritte": "25*4=100"
+  },
+  {
+    "Frage": "Ein G\u00e4rtner pflanzt an einem Vormittag 48 Blumen in einen Blumenkasten. Am Nachmittag schafft er es, die gleiche Anzahl an Blumen in einen weiteren Blumenkasten zu pflanzen. Wie viele Blumen hat der G\u00e4rtner an diesem Tag insgesamt gepflanzt?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "4",
+    "Aufgabentyp": "Addition",
+    "Antwort": 96,
+    "Einheit": "Blumen",
+    "Rechenschritte": "48+48=96."
+  },
+  {
+    "Frage": "Im Tierpark gibt es ein Gehege mit 34 Meerschweinchen. In einem anderen Gehege leben 28 Kaninchen. Wie viele Tiere sind es in beiden Gehegen zusammen?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "4",
+    "Aufgabentyp": "Addition",
+    "Antwort": 62,
+    "Einheit": "Tiere",
+    "Rechenschritte": "34+28=62"
+  },
+  {
+    "Frage": "Leo geht in den Schreibwarenladen. Er kauft 3 bunte Stifte, die jeweils 2 Euro kosten. Au\u00dferdem kauft er ein Malbuch f\u00fcr 12 Euro. Leo bezahlt mit einem 20-Euro-Schein. Wie viel R\u00fcckgeld bekommt Leo?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "3",
+    "Aufgabentyp": "Geld (R\u00fcckgeld)",
+    "Antwort": 2,
+    "Einheit": "Euro",
+    "Rechenschritte": "3 \u00d7 2 = 6, 6 + 12 = 18, 20 - 18 = 2."
+  },
+  {
+    "Frage": "Mia bereitet sich auf ein Malprojekt vor. Sie kauft 4 Packungen Buntstifte, und jede Packung enth\u00e4lt 6 Stifte. Auf dem Heimweg fallen ihr die Stifte herunter und 3 Stifte gehen kaputt. Sp\u00e4ter bekommt sie von ihrem Freund noch 5 weitere Stifte geschenkt. Wie viele heile Buntstifte hat Mia jetzt insgesamt?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "3",
+    "Aufgabentyp": "Mehrschrittaufgabe",
+    "Antwort": 26,
+    "Einheit": "Stifte",
+    "Rechenschritte": "4 \u00d7 6 = 24, 24 - 3 = 21, 21 + 5 = 26."
+  },
+  {
+    "Frage": "Emil kauft im Schreibwarenladen 3 Bleistifte. Jeder Bleistift kostet 2 Euro. Er kauft au\u00dferdem einen Radiergummi f\u00fcr 1 Euro. Er bezahlt mit einem 10-Euro-Schein. Wie viel R\u00fcckgeld bekommt Emil?",
+    "Schwierigkeit": "Mittel",
+    "Klasse": "3",
+    "Aufgabentyp": "Geld (R\u00fcckgeld)",
+    "Antwort": 3,
+    "Einheit": "Euro",
+    "Rechenschritte": "3 \u00d7 2 = 6, 6 + 1 = 7, 10 - 7 = 3."
+  },
+  {
+    "Frage": "Mia hat 56 bunte Stifte in ihrer Federmappe. Sie merkt, dass 12 Stifte nicht mehr gut schreiben und legt sie beiseite. Wie viele Stifte hat Mia jetzt noch in ihrer Federmappe?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "3",
+    "Aufgabentyp": "Abnahme",
+    "Antwort": 44,
+    "Einheit": "Stifte",
+    "Rechenschritte": "56 - 12 = 44."
+  },
+  {
+    "Frage": "Leo bastelt gerne Papierflieger. Er hat schon 68 gr\u00fcne Papierflieger gebastelt. Nun hat er noch Zeit und bastelt 25 rote Papierflieger dazu. Wie viele Papierflieger hat Leo jetzt insgesamt?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "3",
+    "Aufgabentyp": "Zunahme",
+    "Antwort": 93,
+    "Einheit": "Papierflieger",
+    "Rechenschritte": "68 + 25 = 93"
+  },
+  {
+    "Frage": "Leo hat 25 bunte Murmeln gesammelt. Seine Freundin Mia schenkt ihm noch 15 glitzernde Murmeln dazu. Wie viele Murmeln hat Leo jetzt insgesamt?",
+    "Schwierigkeit": "Einfach",
+    "Klasse": "3",
+    "Aufgabentyp": "Zunahme/Abnahme",
+    "Antwort": 40,
+    "Einheit": "Murmeln",
+    "Rechenschritte": "25 + 15 = 40"
+  }
+]

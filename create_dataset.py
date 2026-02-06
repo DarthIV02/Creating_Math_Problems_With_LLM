@@ -10,17 +10,7 @@ import tiktoken
 # ------------------------
 # Query Helpers
 # ------------------------
-def query_openai_json(client_openai, model_name, prompt):
-    """
-    Sends prompt to OpenAI and extracts first JSON object.
-    """
-    response = client_openai.chat.completions.create(
-        model=model_name,
-        messages=[{"role": "user", "content": prompt}],
-        timeout=60.0
-    )
-
-    text = response.choices[0].message.content
+def parse_JSON(text):
     match = re.search(r"\{.*?\}", text, re.DOTALL)
     if not match:
         print("⚠️ No JSON found in response:")
@@ -34,25 +24,26 @@ def query_openai_json(client_openai, model_name, prompt):
         print(text)
         return None
 
+def query_openai_json(client_openai, model_name, prompt):
+    """
+    Sends prompt to OpenAI and extracts first JSON object.
+    """
+    response = client_openai.chat.completions.create(
+        model=model_name,
+        messages=[{"role": "user", "content": prompt}],
+        timeout=60.0
+    )
+
+    text = response.choices[0].message.content
+    return parse_JSON(text)
+
 def query_gemini_json(client_gemini, model_name, prompt):
     """
     Sends prompt to Gemini and extracts first JSON object.
     """
     response = client_gemini.models.generate_content(model=model_name, contents=prompt)
     text = response.text
-
-    match = re.search(r"\{.*?\}", text, re.DOTALL)
-    if not match:
-        print("⚠️ No JSON found in Gemini response:")
-        print(text)
-        return None
-
-    try:
-        return json.loads(match.group(0))
-    except json.JSONDecodeError:
-        print("⚠️ Invalid JSON:")
-        print(text)
-        return None
+    return parse_JSON(text)
 
 # ------------------------
 # JSON File Helper
